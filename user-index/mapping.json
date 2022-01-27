@@ -1,0 +1,52 @@
+{
+  "republik-user-2022-01-17-18-52-32" : {
+    "mappings" : {
+      "User" : {
+        "dynamic" : "false",
+        "properties" : {
+          "__sort" : {
+            "properties" : {
+              "date" : {
+                "type" : "date"
+              }
+            }
+          },
+          "__type" : {
+            "type" : "keyword"
+          },
+          "biography" : {
+            "type" : "text",
+            "fields" : {
+              "keyword" : {
+                "type" : "keyword",
+                "ignore_above" : 256
+              }
+            },
+            "analyzer" : "german"
+          },
+          "hasPublicProfile" : {
+            "type" : "boolean"
+          },
+          "name" : {
+            "type" : "text"
+          },
+          "resolved" : {
+            "properties" : {
+              "credential" : {
+                "type" : "text",
+                "analyzer" : "german"
+              }
+            }
+          },
+          "statement" : {
+            "type" : "text",
+            "analyzer" : "german"
+          },
+          "username" : {
+            "type" : "text"
+          }
+        }
+      }
+    }
+  }
+}

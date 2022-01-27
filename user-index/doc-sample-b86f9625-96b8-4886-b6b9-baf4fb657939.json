@@ -1,0 +1,66 @@
+{
+  "_index": "republik-user-2022-01-17-18-52-32",
+  "_type": "_doc",
+  "_id": "b86f9625-96b8-4886-b6b9-baf4fb657939",
+  "_version": 1,
+  "_seq_no": 19777,
+  "_primary_term": 1,
+  "found": true,
+  "_source": {
+    "id": "b86f9625-96b8-4886-b6b9-baf4fb657939",
+    "email": "patrick.venetz@republik.ch",
+    "verified": true,
+    "firstName": "Patrick",
+    "lastName": "Venetz",
+    "birthday": null,
+    "phoneNumber": "[[phoneNumber]]",
+    "addressId": "[[addressId]]",
+    "createdAt": "2020-01-23T12:34:56.789Z",
+    "updatedAt": "2020-01-23T12:34:56.789Z",
+    "roles": [
+      "member"
+    ],
+    "username": "pae",
+    "hasPublicProfile": true,
+    "portraitUrl": "https://cdn.repub.ch/s3/republik-assets/portraits/95b35a0ba210cdaabf10fcea9caafc17.jpeg?size=2988x1681",
+    "statement": "Nid appa.",
+    "isListed": true,
+    "isAdminUnlisted": false,
+    "testimonialId": "[[testimonialId]]",
+    "facebookId": "",
+    "twitterHandle": "patrickvenetz",
+    "publicUrl": "",
+    "badges": null,
+    "biography": "Wuchs beim Radio auf. Beschrieb Teletext-Tafeln. Wurde professioneller Sprecher. Synchronisierte Plüschfiguren. Wurde professioneller Programmierer. Teilte Parkplätze. Zog ins Ausland. Fuhr U-Bahn. Zog zurück. Schrieb selten kurz. Kann grillen wie grillieren.",
+    "pgpPublicKey": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmQINBE4gSegBEADEmctg39A77Snrg8MdtGdJlPRouX+Y+768kB5+QhlbgizGEQqn\nq0GkbIE8BPNWzpvRRaB5PHl23eTGKINWD7KqUMYFsVBX7LFejNzXCI5Cw89usGzD\nyNGcznJJ29TKGMyxkgH/OhYJ6Erx+fmQ1jYQsM8HSu7IU3HIuehjpsDa8IaZt0Z2\nsMEaWgWOR06DcZpqge9WfvdX1L0T3sFOIqvDeTLWcRuAA9xuEfn5I88cP2/KvNjI\nyFus2/40TbpVbit+HyZtiHd5dBbMRVZ/4Sa5ZmDTltE9sTqyL1JCPY4G3FWHrqM8\nkG+UJ8Mr2G6kDnmKREgorZIFSrUqMQ4CzDmBfh2XxXjUJ0Add2MXx0W102UmSWFw\nYGu8x0AVTsGB0nw6H6YInU+aTyuHs+aENtJrXYhO0qj9Awao0eNFjLzzxYxnRC1j\nivCieOjELqv40A23YivOB0aojdDXlPHWrSgNeEDJeUfvtoXKidSC+qRsthlui5CN\nqV90bPQ8fIpHnd6rwjBgjpFCUcV0Eo8JeT15VpCAyU6FVg82MwvwX3mNKwdJVBdg\n3iwsIwMZI7aJ7/dj1xLq2NtvLIKndTj/V3v14PMY+Fh4xhJ5W660+7VCrtMxRYpG\nW7U2mqAuAVYsBtLY6xOqG4Q3woc2kHW/9JIcooL4yfLvjhdP/qkVAAN5nwARAQAB\ntCFQYXRyaWNrIFZlbmV0eiA8dmVuZXR6QGdtYWlsLmNvbT6JAlIEEwEKADwCGy8G\nCwkIBwMCBhUIAgkKCwQWAgMBAh4BAheAFiEEI8w2zUjrviGf5ApMaMR9ZZZ+iKoF\nAlrPulkCGQEACgkQaMR9ZZZ+iKoxQRAAr9WjiEFgDNGo8D1iKUU5rn03YjAZb/kq\n+bMx34nblCIU9OeWrXhkrTm5UVphW++8qjHnzSw5O2ANHphBTfZxmJHOjp3Fgica\nm9PkIZKuNdMHq1CKNdZEnLFdHCILsmJIcUNtDIO5fX5YXXBcV0bvzCX9JOPqh7vk\nAz87/C8EbOBfzoQv6f/eRlLA2kAxafhbzIxPPQB9CKq6nrGMmsBpyToaUBoc00Yq\nybQVQBbYUdup7DoOEyaAbg41I79TdiMME8gZbd0th+7b++JOiCLOV3+sf4YxZly9\nEOnvnwn0M/me+Lj+kWO3r4nC2+bgymfTxYktXhShpOtSGVbA9cLzsJy+mp7LsgtR\n1D2He45Pi8fomtvCNs3ahhA0KQtsduc/AWDxXsGeQUDW64D8jqbsQZosnizbsChV\npH+pjTvCIb2MZkLaCIFz2nH4iEQu8bdqTMVnF36ikSj3gH7EBCA04AHhCuIdZwR0\n47PEZErF7OT7+pdj0bMT4RxYlx1BpyqCMEYjLEb0hxz9ECIcJ9UWsnvvyOvaYrXy\ndsJiDZklpsJrisnSrw801dX9Zbmwq+dT7XRgg572ywOD4b+4Eodll0cb1pElsJuF\nRvucZAGOQknfHRgupRJk6BeqMOiooFaL3sNu6+yVbXYd/GQDGH6D4B9IosB1AG3l\ncfksbDkoCuu0J1BhdHJpY2sgVmVuZXR6IDxtYWlsQHBhdHJpY2t2ZW5ldHouY29t\nPokCTwQTAQoAOQIbLwYLCQgHAwIGFQgCCQoLBBYCAwECHgECF4AWIQQjzDbNSOu+\nIZ/kCkxoxH1lln6IqgUCWs+6WQAKCRBoxH1lln6IqvLPD/9W2OimUgWYNJoFskfp\nlkeH9dbh5rwPlpKNfRnzuw2Wi2C02Qj1mPeG1olkgjVp9bXHW30rmFUP2iSxUvfv\nExxJhE0JwRcE1YuolSH84oYFiOY5eSewvS/ZkyW+6PH/zPve2jKOKjE3Zwy4Ft/r\njqUlufjaYVoNn4fL+bhVQvQkZQgnJSNa4+StoeDPLRY5awT3gb0E97mUIBVQnhDn\n1bZ1wRW4B9gKbSC/i5hmcznDaJNwJNUCyTxWwiaBpYK6/fgU1xQoxJdiJr8HQvBo\n3h0aMRmN8ozLHy/wVmsAyDQS5whBJYzb+cbViynz6yyJiaruSt7+57VDe0E8Vk+h\ntXs7eVG9Kfgc+5DWnYt8ia1cKf0GQIY9vsHNT3L4SRX55LieVVSpaCP0ufDHP29U\no4GmfXiLU2jBLltDpo1YE6vyh0nED/g7cIwFW3el17DM6wldjh9Ch87fRKftfWvd\nklGgMEM6dEDkxyXmwkYutOnX+2M1LaaofuPBH4SlHI8GCrjIk9mrpvLEzOsQ/fRf\n0rAs9z9gmN5/8embClu7hZ8mb2oQ5EHlz8EwIVmYNsVw1tYnxD27sNopDr6ug5jn\n64C0PuhHLj+WmhyKIV/3s9t/7naPRMZ8SS6eOFUMUh9hfarGuMQYVC3qZr66JcBq\nxXOBBu8kNSYhMgSupOsraVgeFYkCOAQTAQIAIgUCTiBJ6AIbLwYLCQgHAwIGFQgC\nCQoLBBYCAwECHgECF4AACgkQaMR9ZZZ+iKpuZg/+NCeBKoGo9AcnWpiPNrg1LkB4\nelLRuuAYnRqPHkTJvB363v/eJQZk6Do98JhGB2xAh5+eHzB5dbUktj7XxsHpQWfK\nd6Bz/JBWpFBZzrktTl4D4yteroGSYTtnYWwwW284ADhUaNakhpuPYn5jTxO3qgCs\nM43Qo1PPw2I4IuY43uJQ2z1zkWRazLuYJwmmR0bDbzYA+YfCvmoBKPHBakAAJaaS\np3MVUPZRTcgWYCZRjzJl1jbusnKfBvYYcf3fLaXkIiWhKmAgHCPP/K4eNkT/g8vV\nRXZCT4LBGBvtGXHUHQYdpMFwDyGf/Bf0WaOrw/S+Q98LKZMsugH3A52oxa2VzQNa\nNexYB9pRtjP9MYkbEWed+YfUWlKlRnxXSpGj+s0nWimvHybxsgEM0Z7FovU8tz/4\nseIbURczHbvDc4GiacaAUFWmi8h745Uc0KtRAIuQB6e/XDqnAP0G//wu+2kWZHIO\nDU+Sp02i2n3Cakr3yyEpGmbrn4jUVQ/LUPQ0GcR8Kbl0rd17HZXrqQj2sAh6oNPF\nVoy5M3SmvjnuUbk2USebEi9+vYyptfl2hON+Ga1YhYpcPoXNxtXq8MGrjpTjCRVX\nhZHczK8vz48HhSq+V+2zH/rZSOUK1JaYqVi2+mylN5uffbxxAEqOJoaNUtQO/yHJ\nsbGgEJE39eM0hfle0cW0JVBhdHJpY2sgVmVuZXR6IDxpbmZvQHNjaG9lbnJlZGVu\nLmNvbT6JAjgEEwECACIFAk4gTWECGy8GCwkIBwMCBhUIAgkKCwQWAgMBAh4BAheA\nAAoJEGjEfWWWfoiqJJMQAL+Ptxf7A0gvnXZW2FgHNycWfvIzEitsg9vYV07WGSFb\nUXuFCeb5YLg1k96n9Iazy/CzJTQclgK0Mbf0MStbEdhmQ8lKldH8NJVepz4DEIox\nJPOHpiHjXVDiqKxcggIdNS35dQI+n9CZFtmKNvEML/OFPyzM13GcVXL790XPoO6R\n9D8tyyrOd/F9qsQEjGTpQaqoRBx5m446EqlFtOmissd0SQCOEMDTSv+GyAa4sVEe\nGXYrLoxqfrdf8z4iaz7kzOoRVR550PPrbd4X97MNTF76Qt7M1DUdCa5vXzcc0dg3\n9Kle0VqFUorU/CWHFgARns65KQf0B/72jgz1xsCszSUnTcrfgtUsIh/mURi0OQWY\nrGENqp0sNCiqj0SOIaX7j97isheCyjUHnOe/TX5gVA57Cm6vYRZt5ll79XOlotp/\nBNIQxNdkHHN5k66Pyp40otc0KW4ATYFsQNL1JINVr+1AJeIXZcqsTKDfv8NdQFYX\nrRfquWtbh1MshGP3gDpJnUCq4pRq0mzWl5MI2tZrMbtm39xzH4O8LdQYStZgZNz9\njgEyUKMYfQ2NExwG+ZnbBIF5V8MnrJa3qLOgum+M3ssaIApByEB6PGR36+aUWb66\npNktrdviwpzR5ecfeF6MIcmFVa2RzKPbstWZBZX+3e5SM6H1WVwuD/hh4R0PiK2V\ntB9QYXRyaWNrIFZlbmV0eiA8cGFlQGtleWJhc2UuaW8+iQI4BBMBAgAiBQJT9Ggi\nAhsvBgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRBoxH1lln6IqhdQD/975OrE\n1iR3Mvpp0jwhkJAhWB3vS1BIytKSndbcd4mARLO4mEBH3K/Cjjb+M4BaUuUtYwJ5\n/20a3k7brc8T+b0hPdi+j3FC4vcQ0/8YqmvPZHpWmjZS/anVTKnERk7hdfWJz9aJ\nDHyrNFFwYAj4SxBCq2zFlYMC7UxF6/IlRDvRjiKojwmOr3SGAr9XGOWB5dbuUDTB\nOBsjwkSqSmvweluR1L60FPQtOzzYJYcrz84WNTVgtiybdvcpy72aMzc1R1okOaiJ\nBr00YPy4WOJQgfSZuWlUP6Q5WWVsfBxXZ7+Z1KLcGp8DXubdixjvtyU05hN2ruV2\nnADxKbpUJ1h6qm8fD9XD9PBM3uI28LcRIynzpZFuy9bBCFTEZYPtHAR5FOLjQ/A4\nbrT6fhJpMsabDy1fwsLItUsTsnMA3EwEGnxIPyATNzVpqHRiWOqW6u3pR2+kRL2w\neybtfX+a00YoiRkQvTYnmxvCIsoWJItsFYQm5M6aKikdXuszr90ZGgKNeHC9nQt1\n4zE7MXsxcF9fGOIjMXdhlFsmq1QoPzB9SDpWveuaz8vMr8yMcjceZa8a6weQRzKK\nP/k6k+93ssgwkJTPZzA8lF7YP+hCYBd2fFDlLtqaLqWPYFeat1zwEn/HXU1dLVIU\nZ0QaknbmkpuuF4mUIwYDx/PG6HqCTmL7av6tfbQrUGF0cmljayBWZW5ldHogPHBh\ndHJpY2sudmVuZXR6QHJlcHVibGlrLmNoPokCTgQTAQoAOBYhBCPMNs1I674hn+QK\nTGjEfWWWfoiqBQJa6az4AhsvBQsJCAcDBRUKCQgLBRYCAwEAAh4BAheAAAoJEGjE\nfWWWfoiq6u4P/ibNqHwDT7E3GNFX65YMqLb41PItEasTS5K5ilvUBaWkj8HXKrjv\nsDk58tjTbvLebZFmwQxvgfO4oJHEMSdWBzFf0utAHzlBpI10rtXA6+fSEoF73MEe\n4vTrCZShYCyTjqAfr5HMDoWs7XJgirb8GYLlXrh1bxBmEYxopPAcEzQ5HYdxYkYj\nzry0eKzozfJ1OYH485YFgIhDacSTavZ2Zi01HZnhea6KYLb+VS1Ph8raJWa+5S2K\nwwNvYMOpOqijqvCknKmwH9HGs8sj+0xUCXzrfJkRRy2n5TTPhvZv2b3L1eW2YACL\nftv9mhBw06d3nxbyIYtXqQ0uwWI2MYJA7tXsoxHXp88Afel9q6opDUELFSGfneuP\ny06I2QOROXnOREzEtFH6gllp1hh6Huo+75d7FulFfSIH5AT238ffXX8+0oycOBEf\nbUdEcnRhtI3fOVkWYPwEEJJFgnbXPwiFVQ53Lo5C0lRVEp+jETgFIU4ED6oVlDg1\nGrvkrGqmEofyXO1Ec/P4jgJv8XvgZHUju4EkFFvmbhJF5n5ME+aoQSR5iFC+3XMw\nSzchZbAqURHAI3KzrQ9h+O31F5IN8gTrm7PEgigYo4RXV8Z/KXS+Hme8qMGqGZsR\nO198+r+fxUwVfrO3gI+QPat7RO4MopYPzEAHf4tGbUaBptX5CfBCOAEZuQINBE4g\nSegBEADImIIGRZyZDY/Lg8pCj0ztI8B4KlqACZoAj+gYLcCX+Wk/5hXOqVV+BGKJ\ncBtFng62zxEPsgNBJ7yyxjqyB9gYfUPMsZYtxVXKqZw8DnGRS1No+7b/Mxq/YRm5\nWK0eZJRcHnStNlrChjQEfEF11Lt3MLDHAxHzXCUDUvi9ZwRdtQs/Dxp12kQWrkOG\nWY8PpEj/knzCR9XwPyFRA3PpWiqJnMA+W75sfDJ8U/LHypSv0c230ETYFqBjgWrD\nAdP4MEQIApTrNOpgeDCaLDbgY47D6np+uPzwNe2Auhu2NlNXCDgZWtDXmgBN6IgM\nun0wjCDCprJSRHN7OIE3yF6jzV4S0Y8pk3eNUHM6JUmiztdQfOmRgBbiYjcMhD8v\n3s5MRQkejX14jHIeeh7Ibixp5zeZVLAyv8ttmzz2Ao00ohgUnT6Sld7qceWezyLI\nQY1JMv/NcTQ1LPau/nxeMO2l6i2abHJwvx8xBrdyJPBJi7DC2FBHSqV4rlsg2PXL\nMqBuHUiWIbuCBk7QWw7coTBLUhH8uBiGjNfDDwuowRbxaLXbiiOh7BNwS1u3UOEh\nwXbBzX0pKJ/eA9qF+T+lkhZbH1ZaoclsWZ+c/ixxG6v3OL6qjhzBnMTR65M2bedE\nt/qRKSyrg8ZsRLu4WE2bTovIJScDaCE5/3E47bpTV4kn/dCmuQARAQABiQQ+BBgB\nAgAJBQJOIEnoAhsuAikJEGjEfWWWfoiqwV0gBBkBAgAGBQJOIEnoAAoJEPkF3AOM\nyys2PHcP/A7vKr/gmPFY+yfChKaUXr8OtTFCbMKIpio/S6SsoOOsQnbEgPxwIhCL\nPKMKtJVL3lxrC8ghmBcHBbi8Z7JvSgY1wYSUbcBCMB/69P6M+jSOOR/p7v4oBsA3\nPNn5LGtFVLi3z7JoOmlRjC8Y3Bm9ZCOvpCx/UHW64zik+zFBxeL3bvVZSmiOfIv/\nJ/PKJNf5CqneISYamcFgU4gAm8iLwtMUbgdenex4OHzoVfsSSyZi7LfHoO7sUaiJ\nHwafFtgHRvRpSBo+YlPwtLelbwstLqzZc7bK5l8HhqTf2vZ/jWFGlIFApTYGLY1w\nSOq0njzrOg2sO3SAmZ2+ZR2D4cgcHhZiMrn2QcKBU7+jp/mfvC0AUVj7BEYeR2Xn\nrYZQ7iJZ62uliAhVlHzaltp7Ej8Vo3+iK0+sMc0uN/VotFK/zT2BlSMBB32Yz3PQ\nyyOP92pnXPD4o5BVq+9VdPrZ6aHvMMwc60j4iKkpcOXEFcOAEXhqg0amvs4X//cl\n52pgdRBKngFG0hA28XHLI69d8RFQw1eSmrm20VW1g6ScadYTGrQXvRIStC+94D7x\nG1CTXv2YexNsheUOMbdZCtzktLELPboG3BjcqALDmpWtFzX3nNkuLhhX1hqOKdgq\ne5s2qo08yyAMOioGXXT9Y95ncbW6BrT41STtYtns89TWHRreeWwGRm4QAKoI2otf\nyESA3HM6ZUdDCztGVEcuhcty7oAk9ueMj2IPJ5Wwh3kl+DB99rKQ+UN4YSC2GEZn\nDUCtuETo34WOulbMyJzgvUDKEpfbPq5UPYvUg/ChxCbBxOCuwXX9rLHpasmurUuR\n/9nQN4YrnJj4B6IwlJWFE68tdju1U9nlhK8erqvmTpcGicZ5IllAmTQ2EHEtchQk\nqG+77o9U32vkHWoYlU4maCSGhNBCyzE45dGaaVOi4vq+mv93KxS3TCs5uPxvyqVu\nP36v6IE8ykfePqnsPbyFtEpHhHbWlZ4TdBBxxPUyLZ7atNbOrM0Q7xzFuRxOXZkW\nLpMjZlX7fu8mDsWn+7I9soXuPY9S1VBUlSCITW0hrXhTT+iYeI1L1EPQX5DOKZWn\n95SvDPLK1VqnCsnvPHkX6aHAkZ0gFME0SlNaLyYlj9f4aomofr+RowbhW/j7lyFx\niqtm2Ag39zA/YCa59i7oMW+Dc2lHCH3zeEG3ai8QkZ/9vna1N56Y0BaPDvz/sq66\nXo8b4e8fuiQ8MZcAmWfYxsi2p4guQPCDq2Sq2/IYWibp1EqdHc4fKo+HZAWL8gmn\nNj7Pi5I5WiNuHeBZCRxeufzwCEGqiirhvZa/noqS7lZrWfKIDPSWWcXy3YtiyldB\n+bmaUH0CivZYwnMYtNpV8KkBOcv3QcEjs8wh\n=aBYl\n-----END PGP PUBLIC KEY BLOCK-----",
+    "phoneNumberNote": "",
+    "phoneNumberAccessRole": "EDITOR",
+    "emailAccessRole": "MEMBER",
+    "ageAccessRole": "ADMIN",
+    "previewsSentAt": null,
+    "adminNotes": null,
+    "defaultDiscussionNotificationOption": "MY_CHILDREN",
+    "discussionNotificationChannels": [
+      "WEB"
+    ],
+    "TOTPChallengeSecret": null,
+    "isTOTPChallengeSecretVerified": false,
+    "phoneNumberVerificationCode": null,
+    "isPhoneNumberVerified": false,
+    "enabledSecondFactors": null,
+    "deletedAt": null,
+    "preferredFirstFactor": null,
+    "hadDevice": true,
+    "disclosures": "",
+    "accessKey": "[[accessKey]]",
+    "gender": null,
+    "__sort": {
+      "date": "2020-01-23T12:34:56.789Z"
+    },
+    "resolved": {
+      "credential": "Software-Entwickler @Republik"
+    },
+    "name": "Patrick Venetz",
+    "__type": "User"
+  }
+}
