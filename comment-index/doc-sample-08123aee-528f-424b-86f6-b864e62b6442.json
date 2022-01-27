@@ -1,0 +1,76 @@
+{
+  "_index" : "republik-comment-2022-01-17-18-56-32",
+  "_type" : "_doc",
+  "_id" : "08123aee-528f-424b-86f6-b864e62b6442",
+  "_version" : 1,
+  "_seq_no" : 801,
+  "_primary_term" : 1,
+  "found" : true,
+  "_source" : {
+    "id" : "08123aee-528f-424b-86f6-b864e62b6442",
+    "discussionId" : "2e7a4c9c-82e7-4db3-9de8-57770499bde0",
+    "parentIds" : [
+      "f1a1521b-3ed7-4afd-a3ec-20ceba025d55"
+    ],
+    "userId" : "b86f9625-96b8-4886-b6b9-baf4fb657939",
+    "content" : "Vielen Dank für Ihre Rückmeldung, Marinne.\n\nDie Schwierigkeit mit der Anonymität ist etwas, dass wir hier, aber auch innerhalb des Rothauses diskutieren.\n\nIch persönlich bin Verfechter davon, Anonymität allen und unbedingt zur Verfügung zu stellen.\n\nEntgegen Ihrer Überlegung, dass das nicht zur Philosophie der Republik passen würde, halte ich entgegen, dass es für die Republik gar keine anderen Dialogform geben darf. So, wie Sie, falls es die Geldsituation nicht anders erlaubt, eine reduzierte Mitgliedschaft kaufen können, dürfen Sie im Dialog mitmachen, auch wenn Sie sich nicht  zu erkennen geben möchten. Es obliegt meiner Meinung nach nicht der Redaktion oder Genossenschaft oder Mitdebattierenden zu entscheiden, ob eine Nutzerin einen Beitrag anonym veröffentlichen darf. Genauso, wie wir nicht entscheiden, ob Sie «Anrecht» auf eine reduzierte Mitgliedschaft haben (auch wenn Sie uns eine Notiz dazu da lassen). Vernunft und Ehrlichkeit gewinnen gegenüber Bürokratie und Feststellung.\n\nGleichzeitig ist sichtbar, dass die Anonymität in den letzten Monaten im Dialog wuchs: 2020 waren gerade mal 5 Prozent der Dialogbeiträg aus anonymer Quelle – ähnlich der Jahre zuvor –, dieses Jahr sind es bereits 8 Prozent. Diesen September und Oktober waren 11 Prozent der Beitrag von namenlosen Absendern. Und gefühlt nehmen flappsig und aggressiv formulierte Anonym-Ziffer-Beiträge zu.\n\nIch sehe ein, dass das die Debatte strukturell verändert (oder den Genuss eben derer, wie ein Kollege zwei Bürotische weiter meinte) und dass das für einige unbefriedigend ist.\n\nSie, Marianne, sind auch gleich mit einem Vorschlag vorgetreten. Aber bevor wir etwas verändern, müssen wir uns eine Reihe von Fragen stellen. Offensichtliche, wie die Fragen, warum anonyme Beiträge zugenommen haben. Könnte es ein zeitlich beschränktes Phänemon sein, das wir als Dialoggemeinschaft überstehen? Wären wir ohne Anonym-Funktion ein Elysion?",
+    "upVotes" : 5,
+    "downVotes" : 0,
+    "votes" : [
+      {
+        "vote" : 1,
+        "userId" : "[[userId]]"
+      },
+      {
+        "vote" : 1,
+        "userId" : "[[userId]]"
+      },
+      {
+        "vote" : 1,
+        "userId" : "[[userId]]"
+      },
+      {
+        "vote" : 1,
+        "userId" : "[[userId]]"
+      },
+      {
+        "vote" : 1,
+        "userId" : "[[userId]]"
+      }
+    ],
+    "hotness" : 11037.2438072,
+    "depth" : 1,
+    "published" : true,
+    "adminUnpublished" : false,
+    "reports" : null,
+    "createdAt" : "2021-11-11T12:48:17.818Z",
+    "updatedAt" : "2021-11-11T12:52:26.834Z",
+    "tags" : [ ],
+    "urls" : [ ],
+    "embedUrl" : null,
+    "mentioningRepoId" : null,
+    "mentioningFragmentId" : null,
+    "featuredAt" : null,
+    "featuredContent" : null,
+    "featuredTargets" : null,
+    "resolved" : {
+      "user" : {
+        "facebookId" : "",
+        "firstName" : "Patrick",
+        "lastName" : "Venetz",
+        "name" : "Patrick Venetz",
+        "credential" : "Software-Entwickler @Republik",
+        "twitterHandle" : "patrickvenetz",
+        "username" : "pae"
+      },
+      "discussion" : {
+        "hidden" : false
+      }
+    },
+    "__sort" : {
+      "date" : "2021-11-11T12:48:17.818Z"
+    },
+    "contentString" : "Vielen Dank für Ihre Rückmeldung, Marinne.\nDie Schwierigkeit mit der Anonymität ist etwas, dass wir hier, aber auch innerhalb des Rothauses diskutieren.\nIch persönlich bin Verfechter davon, Anonymität allen und unbedingt zur Verfügung zu stellen.\nEntgegen Ihrer Überlegung, dass das nicht zur Philosophie der Republik passen würde, halte ich entgegen, dass es für die Republik gar keine anderen Dialogform geben darf. So, wie Sie, falls es die Geldsituation nicht anders erlaubt, eine reduzierte Mitgliedschaft kaufen können, dürfen Sie im Dialog mitmachen, auch wenn Sie sich nicht  zu erkennen geben möchten. Es obliegt meiner Meinung nach nicht der Redaktion oder Genossenschaft oder Mitdebattierenden zu entscheiden, ob eine Nutzerin einen Beitrag anonym veröffentlichen darf. Genauso, wie wir nicht entscheiden, ob Sie «Anrecht» auf eine reduzierte Mitgliedschaft haben (auch wenn Sie uns eine Notiz dazu da lassen). Vernunft und Ehrlichkeit gewinnen gegenüber Bürokratie und Feststellung.\nGleichzeitig ist sichtbar, dass die Anonymität in den letzten Monaten im Dialog wuchs: 2020 waren gerade mal 5 Prozent der Dialogbeiträg aus anonymer Quelle – ähnlich der Jahre zuvor –, dieses Jahr sind es bereits 8 Prozent. Diesen September und Oktober waren 11 Prozent der Beitrag von namenlosen Absendern. Und gefühlt nehmen flappsig und aggressiv formulierte Anonym-Ziffer-Beiträge zu.\nIch sehe ein, dass das die Debatte strukturell verändert (oder den Genuss eben derer, wie ein Kollege zwei Bürotische weiter meinte) und dass das für einige unbefriedigend ist.\nSie, Marianne, sind auch gleich mit einem Vorschlag vorgetreten. Aber bevor wir etwas verändern, müssen wir uns eine Reihe von Fragen stellen. Offensichtliche, wie die Fragen, warum anonyme Beiträge zugenommen haben. Könnte es ein zeitlich beschränktes Phänemon sein, das wir als Dialoggemeinschaft überstehen? Wären wir ohne Anonym-Funktion ein Elysion?",
+    "__type" : "Comment"
+  }
+}

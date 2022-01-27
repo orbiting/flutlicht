@@ -1,0 +1,61 @@
+{
+  "republik-comment-2022-01-17-18-56-32" : {
+    "mappings" : {
+      "Comment" : {
+        "dynamic" : "false",
+        "properties" : {
+          "__sort" : {
+            "properties" : {
+              "date" : {
+                "type" : "date"
+              }
+            }
+          },
+          "__type" : {
+            "type" : "keyword"
+          },
+          "adminUnpublished" : {
+            "type" : "boolean"
+          },
+          "contentString" : {
+            "type" : "text",
+            "fields" : {
+              "count" : {
+                "type" : "token_count",
+                "store" : true,
+                "analyzer" : "standard"
+              },
+              "keyword" : {
+                "type" : "keyword",
+                "ignore_above" : 256
+              }
+            },
+            "analyzer" : "german",
+            "fielddata" : true
+          },
+          "published" : {
+            "type" : "boolean"
+          },
+          "resolved" : {
+            "properties" : {
+              "discussion" : {
+                "properties" : {
+                  "hidden" : {
+                    "type" : "boolean"
+                  }
+                }
+              },
+              "user" : {
+                "properties" : {
+                  "name" : {
+                    "type" : "text"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
