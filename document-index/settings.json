@@ -1,0 +1,34 @@
+{
+  "republik-document-2022-01-17-19-01-49" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "5",
+        "provided_name" : "republik-document-2022-01-17-19-01-49",
+        "creation_date" : "1642446109340",
+        "analysis" : {
+          "filter" : {
+            "german_stemmer" : {
+              "type" : "stemmer",
+              "language" : "light_german"
+            }
+          },
+          "analyzer" : {
+            "german_with_stopwords" : {
+              "filter" : [
+                "lowercase",
+                "german_normalization",
+                "german_stemmer"
+              ],
+              "tokenizer" : "standard"
+            }
+          }
+        },
+        "number_of_replicas" : "1",
+        "uuid" : "[[uuid]]",
+        "version" : {
+          "created" : "6081099"
+        }
+      }
+    }
+  }
+}

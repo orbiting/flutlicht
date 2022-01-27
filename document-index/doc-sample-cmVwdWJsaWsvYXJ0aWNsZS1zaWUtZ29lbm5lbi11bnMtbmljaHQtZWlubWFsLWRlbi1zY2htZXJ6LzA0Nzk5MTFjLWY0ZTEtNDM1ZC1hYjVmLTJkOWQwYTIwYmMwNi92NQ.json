@@ -1,0 +1,1485 @@
+{
+  "_index": "republik-document-2022-01-17-19-01-49",
+  "_type": "_doc",
+  "_id": "cmVwdWJsaWsvYXJ0aWNsZS1zaWUtZ29lbm5lbi11bnMtbmljaHQtZWlubWFsLWRlbi1zY2htZXJ6LzA0Nzk5MTFjLWY0ZTEtNDM1ZC1hYjVmLTJkOWQwYTIwYmMwNi92NQ==",
+  "_version": 1,
+  "_seq_no": 982,
+  "_primary_term": 1,
+  "found": true,
+  "_source": {
+    "__type": "Document",
+    "__sort": {
+      "date": "2021-06-26T02:50:00.000Z"
+    },
+    "id": "cmVwdWJsaWsvYXJ0aWNsZS1zaWUtZ29lbm5lbi11bnMtbmljaHQtZWlubWFsLWRlbi1zY2htZXJ6LzA0Nzk5MTFjLWY0ZTEtNDM1ZC1hYjVmLTJkOWQwYTIwYmMwNi92NQ==",
+    "commitId": "0479911c-f4e1-435d-ab5f-2d9d0a20bc06",
+    "versionName": "v5",
+    "meta": {
+      "feed": true,
+      "slug": "fremder-im-dorf",
+      "image": "https://cdn.repub.ch/s3/republik-assets/repos/republik/article-sie-goennen-uns-nicht-einmal-den-schmerz/images/de055496453282866349ca5936bea4e7dbfd7573.jpeg?size=3000x1500",
+      "title": "Fremder im Dorf",
+      "series": "[[domain]]/republik/article-seriennavigation-reise-in-schwarz-weiss",
+      "gallery": true,
+      "template": "article",
+      "shortTitle": "In Leukerbad schrieb der afroamerikanische Schriftsteller James Baldwin einst einen wegweisenden Essay über Rassismus und weisse Vorherrschaft. Was kann ein schwarzer Schweizer siebzig Jahre später noch damit anfangen? Eine Dorfbegehung mit dem Berner Rapper Nativ. «Reise in Schwarz-Weiss», Folge 4",
+      "description": "In Leukerbad schrieb der afroamerikanische Schriftsteller James Baldwin einst einen wegweisenden Essay über Rassismus und weisse Vorherrschaft. Was kann ein schwarzer Schweizer siebzig Jahre später noch damit anfangen? Eine Dorfbegehung mit dem Berner Rapper Nativ. «Reise in Schwarz-Weiss», Folge 4.",
+      "twitterTitle": "«Reise in Schwarz-Weiss», Folge 4: Fremder im Dorf",
+      "facebookTitle": "«Reise in Schwarz-Weiss», Folge 4: Fremder im Dorf",
+      "twitterDescription": "In Leukerbad schrieb der afroamerikanische Autor James Baldwin vor 70 Jahren einen Essay über Rassismus. Was bedeutet das heute dem schwarzen Schweizer Rapper Nativ?",
+      "facebookDescription": "In Leukerbad schrieb der afroamerikanische Schriftsteller James Baldwin vor 70 Jahren einen Essay über Rassismus. Was sagt das heute einem schwarzen Schweizer? Eine Dorfbegehung mit dem Rapper Nativ.",
+      "repoId": "republik/article-sie-goennen-uns-nicht-einmal-den-schmerz",
+      "path": "/2021/06/26/fremder-im-dorf",
+      "publishDate": "2021-06-26T02:50:00.000Z",
+      "lastPublishedAt": "2021-07-01T12:09:42.963Z",
+      "prepublication": false,
+      "creditsString": "Von Carlos Hanimann (Text) und Fabian Hugo (Bilder), 26.06.2021",
+      "credits": [
+        {
+          "type": "text",
+          "value": "Von "
+        },
+        {
+          "type": "link",
+          "title": null,
+          "url": "/~5b6da6a6-c9fa-4ebb-a020-8dc85258310e",
+          "children": [
+            {
+              "type": "text",
+              "value": "Carlos Hanimann"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " (Text) und Fabian Hugo (Bilder), 26.06.2021"
+        }
+      ],
+      "audioSource": null,
+      "authors": [
+        "Carlos Hanimann"
+      ],
+      "authorUserIds": [
+        "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
+      ],
+      "isSeriesMaster": false,
+      "isSeriesEpisode": true,
+      "hasAudio": false,
+      "hasVideo": false
+    },
+    "content": {
+      "type": "root",
+      "children": [
+        {
+          "type": "zone",
+          "identifier": "FIGURE",
+          "data": {
+            "excludeFromGallery": false
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "image",
+                  "title": null,
+                  "url": "https://cdn.repub.ch/s3/republik-assets/repos/republik/article-sie-goennen-uns-nicht-einmal-den-schmerz/images/9e9126a3de9bb1e0ea96f39d5fca10b2a7db1acd.jpeg?size=3000x2001",
+                  "alt": null
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Schier unüberwindliche Hindernisse: Thierry Gnahoré alias Rapper Nativ in Leukerbad."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "zone",
+          "identifier": "TITLE",
+          "data": {},
+          "children": [
+            {
+              "type": "heading",
+              "depth": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Fremder im Dorf"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "depth": 2,
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "In Leukerbad schrieb der afroamerikanische Schriftsteller James Baldwin einst einen wegweisenden Essay über Rassismus und weisse Vorherrschaft. Was kann ein Schwarzer Schweizer siebzig Jahre später damit anfangen? Eine Dorfbegehung mit dem Berner Rapper Nativ. «Reise in Schwarz-Weiss», Folge 4."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Von "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "/~5b6da6a6-c9fa-4ebb-a020-8dc85258310e",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Carlos Hanimann"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " (Text) und Fabian Hugo (Bilder), 26.06.2021"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "zone",
+          "identifier": "CENTER",
+          "data": {},
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Nach all den mir verfügbaren Informationen waren wir bei weitem nicht die Ersten, die dieses winzige Schweizer Dorf betraten, um uns auf die Spuren des längst verstorbenen Schrift\u00adstellers zu machen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Man erkennt das etwa an einem Glaskasten gleich neben dem Dorfplatz: Vier vergilbte Fotos und ein Textausriss hängen darin. Die Dorf\u00adbewohnerinnen machen damit Touristen darauf aufmerksam, dass einst ein weltberühmter Autor in diesem Dorf unterkam: Der US-Schrift\u00adsteller James Baldwin floh vor genau siebzig Jahren aus Paris in die Walliser Berge nach Leukerbad. Dort hatte ihn das Leben zu sehr mitgerissen, als dass er zum Schreiben gekommen wäre. Hier aber fand er die nötige Ruhe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Man erkennt es weiter, wenn man den Dorfplatz durch eine schmale Gasse verlässt und sich dann über eine noch engere Treppe zu einem geschindelten Chalet hochzwängt, das aussieht, als stünde es so lange da wie die schroffen Bergspitzen, die es umgeben. Dort, an einem Fensterladen des Kellers, hat "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "http://www.sashahuber.com/?cat=10075",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "die Künstlerin Sasha Huber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " mit silbernem Bostitch auf dunkel\u00adbraunem Holz das Porträt des Schrift\u00adstellers eingestanzt. Es erinnert daran, dass im Winter 1952 im ersten Stock des Burg-Hüsli James Baldwin den Debütroman «"
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.penguinrandomhouse.com/books/249847/go-tell-it-on-the-mountain-by-james-baldwin-introduction-by-edwidge-danticat/",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Go Tell It on the Mountain"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "» fertigstellte, eine autobiografische Abhandlung über sein Aufwachsen in Harlem, New York, die ihn weltbekannt machen sollte."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "zone",
+          "identifier": "SERIES_NAV",
+          "data": {},
+          "children": []
+        },
+        {
+          "type": "zone",
+          "identifier": "CENTER",
+          "data": {},
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Baldwin schrieb hier oben noch einen weiteren Text. Den Essay «"
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://harpers.org/archive/1953/10/stranger-in-the-village/",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Stranger in the Village"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "» (auf Deutsch «"
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.edition-sacre.ch/kopie-von-am-ende-der-rhein",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Fremder im Dorf"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "») veröffentlichte er 1953 im «Harper’s Magazine», später in Baldwins Essayband «"
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.penguinrandomhouse.com/books/643832/notes-of-a-native-son-by-james-baldwin/",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Notes of a Native Son"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "», einem Klassiker der Schwarzen Literatur. Darin erzählt er von seinen Erlebnissen als Schwarzer in einem weissen Dorf, setzt sich mit dem Schwarzsein und weisser Vorherrschaft in den USA und in Europa auseinander und nimmt damit vieles vorweg, was im deutschen Sprachraum seit dem gewaltsamen Tod von George Floyd kontrovers debattiert wird. Baldwin beschreibt darin auch ein Gefühl, das viele Schwarze Schweizerinnen letzten Sommer auf die Strasse trieb: fremd zu sein im eigenen Land."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Der Essay hat manche "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.newyorker.com/books/page-turner/black-body-re-reading-james-baldwins-stranger-village",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Autoren"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ", "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "http://ntandocl.blogspot.com/2014/01/stranger.html",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Künstlerinnen"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " und "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.izfg.unibe.ch/e85925/e85995/e546073/e653299/Programm_TagungJamesBaldwin_Februar2018_ger.pdf",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Wissenschaft\u00adlerinnen"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " veranlasst, den beschwerlichen Weg nach Leukerbad auf sich zu nehmen oder darüber nachzudenken, ob dieser Ort, dieses Haus und das, was einst darin entstand, heute immer noch so viel zu bedeuten haben wie damals, als ein junger James Baldwin mit Norwegerpulli, Zigarette und erhobenem Haupt durch die Gassen ging, die Treppen in die enge Wohnung eines Freundes hochstieg und dort die ersten Worte seines Essays in die Schreib\u00admaschine hämmerte: «Nach all den mir verfügbaren Informationen hatte kein Schwarzer Mensch vor mir je einen Fuss in dieses winzige Dorf gesetzt.»"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "depth": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Warum die Zurückhaltung?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Thierry Gnahoré sitzt im fast leeren Zug, es ist noch früh, gerade hat er "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.deutschlandfunk.de/identitaeten-4-7-fremder-im-dorf.1184.de.html?dram:article_id=464315",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Baldwins Essay über Leukerbad"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " gelesen, zuvor eine Baldwin-Analyse über das «"
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://bannekerinstitute.fas.harvard.edu/files/bannekerinstitute/files/on_being_white.and_other_lies_baldwin_0.pdf",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Weisssein und andere Lügen"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "» («Harte Lektüre frühmorgens!»), und jetzt lehnt er sich über seinen Kaffee im Pappbecher, der noch heiss ist, und sagt so leise, dass es fast ein Flüstern ist: «Mir ist es ein bisschen unangenehm, hier so über Weisse zu reden.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Es ist totenstill im Zug."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Ich habe das Gefühl, dass uns alle Leute zuhören. Wenn ich aussteige, habe ich wahrscheinlich den ganzen Zug zum Feind.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Thierry Gnahoré ist "
+                },
+                {
+                  "type": "link",
+                  "title": "Willkommen in der Scheinwelt",
+                  "url": "[[domain]]/republik/article-willkommen-in-der-scheinwelt?autoSlug",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "besser bekannt als Nativ"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ". In der Schweizer Rapszene gilt er als einer der wichtigsten Künstler, vom Szenemagazin «Lyrics» wurde er zum besten Schweizer Rapper gekürt. Er arbeitet gerade an einem neuen Soloalbum."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Letzten Sommer, als in vielen Städten Schwarze und People of Color gegen Rassismus und Polizei\u00adgewalt demonstrierten, "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.srf.ch/audio/srf-3-punkt-ch/black-lives-matter-proteste-schweizer-musiker-innen-setzen-ein-zeichen?id=11785180",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "tauchten mehrmals hand\u00adgemalte Plakate mit Textzeilen von Nativ auf"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ". Beispielsweise "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.youtube.com/watch?v=DtLSxBK5H68",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "aus dem Song «Noir»"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ", in dem er sein Aufwachsen als Schwarzer Jugendlicher in einem Berner Dorf reflektiert."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Thierry Gnahoré gilt nicht als Person, die sich mit politischen Ansichten zurückhält. Und es ist nicht so, dass er jetzt in diesem Zug etwas besonders Kontroverses gesagt hätte. Im Wesentlichen bloss: Unsere Gesellschaft ist von Weissen dominiert, es gibt Rassismus. Und trotzdem redet er zögerlich, fürchtet, er könnte jemanden vor den Kopf stossen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Warum die Zurückhaltung?», frage ich, und Nativ scheint sich das selber auch gefragt zu haben."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Vermutlich aus Selbstschutz», sagt er. «Wir wissen ja, in welcher Position wir sind: Dass wir in einer weissen Gesellschaft leben, "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://en.wikipedia.org/wiki/White_defensiveness#White_fragility",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "dass es so etwas wie "
+                    },
+                    {
+                      "type": "emphasis",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "white fragility"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " gibt"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ", und dass man selber schnell zur Zielscheibe wird, wenn man Rassismus anspricht.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Nativ war lange unsicher, ob er sich auf diesen Ausflug nach Leukerbad einlassen sollte. Obwohl – oder gerade weil er in seiner Kunst sehr offen für gesellschafts\u00adpolitische Fragen ist: Er rappt über zerrissene Identitäten und über Diskriminierung, über globale Ungerechtigkeiten und persönliche Unsicherheiten. Er ist zugänglich, prominent, hat keine Angst, seine politischen Ansichten auch neben der Bühne zu vertreten. Und er bricht mit den gängigen Klischees über den harten, männlichen Rapper."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Dieser Mix machte ihn in den letzten Jahren fast zu einer Art "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Go-to"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "-Person für Medien, die einen kritischen Promi suchten. Darum hat sich Nativ zuletzt zurück\u00adgehalten mit öffentlichen Auftritten. Wer mit Nativ, dem Aktivisten, reden wollte statt mit Nativ, dem Musiker, blockte er in aller Regel ab."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Er habe sich manchmal ausgenutzt gefühlt, sagt Nativ. Von einzelnen Medien, die aus seinen Erfahrungen mit Rassismus, seinem Schmerz und dem Hype um Black Lives Matter Profit ziehen wollten. «Die merkten: Das liest sich gut, das hört sich gut an, das gibt ein wenig "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "buzz"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ". Aber für mich war das alles eine sehr emotionale Sache.»"
+                }
+              ]
+            },
+            {
+              "type": "zone",
+              "identifier": "FIGUREGROUP",
+              "data": {
+                "columns": 2,
+                "module": "figuregroup",
+                "size": "breakout"
+              },
+              "children": [
+                {
+                  "type": "zone",
+                  "identifier": "FIGURE",
+                  "data": {
+                    "excludeFromGallery": false
+                  },
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "image",
+                          "title": null,
+                          "url": "https://cdn.repub.ch/s3/republik-assets/repos/republik/article-sie-goennen-uns-nicht-einmal-den-schmerz/images/a8a552c9cc88e17eb0f1988f2aa5b9f8ca4a7aae.jpeg?size=2000x2999",
+                          "alt": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Hommage an James Baldwin am Haus, in dem er geschrieben hat: Das Porträt der Künstlerin Sasha Huber."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "zone",
+                  "identifier": "FIGURE",
+                  "data": {
+                    "excludeFromGallery": false
+                  },
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "image",
+                          "title": null,
+                          "url": "https://cdn.repub.ch/s3/republik-assets/repos/republik/article-sie-goennen-uns-nicht-einmal-den-schmerz/images/c74869ddacaacd046ca3a9c3f06834c6499e977d.jpeg?size=2000x2999",
+                          "alt": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Es dauerte, bis sich Nativ in Leukerbad richtig wohl fühlte. Jetzt meint er, der Ort müsste eine Pilgerstätte werden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "depth": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Warum ein Wort verwenden, wenn es verletzt?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Thierry Gnahoré wurde 1993 im Kanton Bern geboren. Der Sohn einer weissen Schweizerin und eines Schwarzen Ivorers wuchs in Niederscherli auf, in einem Dorf, das zwar nicht ganz so abgelegen und klein ist wie das Leukerbad, das James Baldwin in den 1950er-Jahren antraf. Aber auch in Niederscherli lernte Nativ Rassismus in seinen simpelsten Formen kennen, wenn die Dorf\u00adbewohner das N-Wort benutzten und selbst Schul\u00adfreunde ihn so riefen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Mir war damals klar, dass sie nicht unfreundlich sein wollten», schreibt Baldwin in «Stranger in the Village» über die Zurufe der Kinder. «Aber es gibt auch Tage, da ist mir nicht nach Stehen\u00adbleiben und Lächeln, und ich habe keine Lust, mit ihnen zu spielen, sondern murmle mürrisch vor mich hin, wie ich es in den Strassen einer Stadt, die diese Kinder nie gesehen haben, getan hatte, als ich kaum grösser war als sie jetzt: "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Your mother was a nigger.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Nativ sagt, er verstehe Baldwin in dieser Hinsicht gut. «Er schreibt ja, wie er spürt, dass bei diesen Kindern keine böse Absicht dahintersteckt. Aber beim dritten oder vierten Mal hat er dann eben doch keinen Bock, dem einfach nur höflich zu begegnen.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Bei ihm selbst sei es eine Frage der Verfassung, ob er lächle oder konfrontiere. Und eine Frage der Reife. «Wenn weisse Mitschüler das N-Wort sagten und lachten, dann lachte ich mit. Erst mit dem Älterwerden habe ich gemerkt, wie unwohl ich mich damals fühlte.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Kürzlich habe er mit einer engen Verwandten gesprochen, erzählt Nativ. Sie sei ziemlich offen und progressiv. Nativ hat ein gutes Einvernehmen mit ihr, und beide sind oft auf einer Wellenlänge. «Aber dann fiel das Gespräch auf das Thema Mohrenkopf.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Die Aufregung um den Begriff sei völlig übertrieben, meinte die Verwandte. Man habe das doch früher auch gesagt und überhaupt sei es nicht rassistisch gemeint. «Ich wollte sofort emotional reagieren und in die Konfrontation.» Stattdessen habe er ihr erklärt, "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.srf.ch/news/schweiz/kontroverse-um-schokokuesse-mit-dem-mohrenkopf-verspeist-man-afrika-symbolisch",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "dass der Begriff sehr wohl abwertend sei und auch so eingesetzt werde"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ". Er fragte sie, ob es eine unzumutbare Umstellung wäre, auf das Wort zu verzichten. «Ich sagte ihr: Selbst wenn du es nicht böse meinst, verletzt du damit andere Menschen.» Das sah sie ein."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Es ist doch einfach», sagt Nativ. «Wenn du weisst, dass du eine andere Person mit einem Wort verletzt: Warum würdest du es dann weiter verwenden wollen?»"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "depth": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Hier fühle ich mich nicht allein»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Nativs Eltern trennten sich, als er sechs Jahre alt war. Nativ wuchs mit seiner Schwester bei Mutter und Grossmutter auf. Die Familie, die Freunde, das weitere Umfeld waren weitgehend weiss. Nativ haderte mit Klischees, etwa dem des abwesenden Schwarzen Vaters. Das Schwarz\u00adsein in einer weissen Umgebung war manchmal entsprechend kompliziert und schmerzhaft."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Wann hast du gemerkt, dass dir Dinge passieren, die anderen nicht widerfahren?», frage ich. «Wann hast du gemerkt, dass du Schwarz bist?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Es gibt viele solcher Momente. Und ich weiss nicht, welcher zuerst war. Sicher als ich als Kind bei einem Freund zu Hause war und sein Vater ganz selbst\u00adverständlich das N-Wort benutzte. Er sagte es nicht zu mir, aber ich wusste: Ich war angesprochen. Oder wenn ich bei Schul\u00adveranstaltungen mit meinem Vater zwischen all diesen weissen Leuten stand. Und dann natürlich, als mir mein Nachbar von Hand einen Brief schrieb. Da war ich etwa sieben oder acht Jahre alt. Weil ich Djembe spielte, schrieb er mir, es gebe hier andere kulturelle Gepflogen\u00adheiten und ich solle doch dahin zurück, wo ich herkomme.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Bezeichnest du dich eigentlich als Schwarz?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Ich bin zurückhaltend damit, weil ich – trotz allem – viele Privilegien geniesse. Ich assoziiere das Weiss\u00adsein mit Privilegien. Oder: Das Schwarz\u00adsein mit weniger Privilegien. Darum will ich mich nicht auf die gleiche Ebene stellen wie jemand, der nicht hier aufgewachsen ist – wie mein Vater beispiels\u00adweise. Ich will meinen Schmerz nicht seinem gleichstellen oder gar überordnen.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Im Song ‹Noir› sagst du, du hättest dich stets ‹Schwärzer› gefühlt als weiss.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Ja. Und das, obwohl ich eine weisse Mutter habe, in einer weissen Gesellschaft aufgewachsen bin und lebe. Denn man hat mir ja mein ganzes Leben zu verstehen gegeben, dass ich Schwarz sei – positiv wie negativ. Die Zeile in ‹Noir» heisst: "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "‹Du fragsch würklech, warum dass i mi ging Schwärzer ha gfüut aus wiss? Ganz eifach: Wäge öich!›"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Ich bin hier geboren und aufgewachsen. Aber wenn man mir immer das Gefühl gibt, anders zu sein, eben Schwarz, dann ja, dann bin ich das: Schwarz.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "In seiner Jugend zog Nativ mit der Familie von Niederscherli nach Bern. Seit drei Jahren lebt er in Biel. Dort fühlt er sich wohl. Mit Blick auf das Aufwachsen auf dem Land sagt er, es gebe überall Leute, die einen nicht mögen, mit denen man nicht auskomme. «Aber in Biel habe ich zum ersten Mal das Gefühl, dass es nicht an meiner Hautfarbe liegt.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Auch in Biel lebe er zwar in einer weissen Gesellschaft, sagt Nativ, aber die Stadt komme dem, was er suche, sehr nahe. «Hier fühle ich mich in meinem "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "struggle"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " nicht so allein.»"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "depth": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Da stirbt einer, der aussieht wie ich»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Von Biel dauert es eine halbe Stunde nach Bern. Von dort eine Stunde nach Leuk. Und von da aus bringt uns ein Bus in einer weiteren halben Stunde die kurvige Bergstrasse hoch nach Leukerbad. Als wir ankommen, geht ein kühler Wind. Der Schnee ist an diesem Mittwoch Mitte Mai längst geschmolzen. Hingeklotzte Neubauten verstellen den Blick auf die verwitterten Chalets. Heute rennen keine Kinder durch die Gassen, rufen das N-Wort und reiben ihre Hände in einer Art Mutprobe an unserer Haut, um zu sehen, ob sie abfärbt, "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.rts.ch/play/tv/le-doc-ch/video/un-etranger-dans-le-village?urn=urn:rts:video:8566875",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "wie damals, als James Baldwin hier weilte"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Baldwin habe in Leukerbad Rassismus in seinen einfachsten Ausgestal\u00adtungen angetroffen, schreibt der nigerianisch-amerikanische Schriftsteller "
+                },
+                {
+                  "type": "link",
+                  "title": null,
+                  "url": "https://www.newyorker.com/books/page-turner/black-body-re-reading-james-baldwins-stranger-village",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Teju Cole"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ": Die Dorf\u00adbewohner machten sich über Baldwin lustig, rieten ihm, aus seinen Haaren einen Mantel zu fertigen, und beschuldigten ihn hinter seinem Rücken, er stehle Feuerholz. «Leukerbad», heisst es bei Cole, «erlaubte es Baldwin, von Grund auf über weisse Vorherrschaft nachzudenken.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Teju Cole kam im Sommer 2014 hierher, zwei Wochen nachdem weisse Polizisten Eric Garner in New York erwürgt hatten, nur wenige Tage bevor in Ferguson der 18-jährige Michael Brown von Polizisten erschossen wurde. Schwarzsein, schrieb Cole in diesem Zusammen\u00adhang, bedeute, «in einem Zustand psychischer Schwankungen zu leben, ohne Garantie auf persönliche Sicherheit»."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Ich frage Nativ, was er dachte, als er letztes Jahr vom Mord an George Floyd hörte."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Als ich das Video sah, fühlte ich mich sofort betroffen», sagt Nativ. «Natürlich ist mein Leben hier in der Schweiz nicht mit dem in den USA zu vergleichen. Aber was ich da sah, hatte auch nichts damit zu tun, ob dieser Mann etwas getan hatte oder nicht, sondern schlicht mit Rassismus. Es spielte keine Rolle, ob das in den USA passierte oder direkt vor meiner Haustür. Es war allgegenwärtig. Ich sah: Da stirbt ein Mensch, der aussieht wie ich. Und bei mir gingen die Alarm\u00adglocken los.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Viele sagten: Das ist Amerika, nicht die Schweiz.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Ja, ich kann dem sogar zustimmen. Aber muss denn wirklich das Schlimmste geschehen, damit man über Rassismus redet? Man muss nicht mal in die USA schauen. Nehmen wir unsere Flüchtlings\u00adpolitik, unsere Einbürgerungs\u00adpolitik – sie ist Ausdruck von Rassismus. Dass man Afrikaner übers Mittelmeer fahren und sie dort ertrinken lässt, dass man, wenn sie es doch in die Schweiz schaffen, sie hier wie Hunde leben und nicht arbeiten lässt – das ist Rassismus. Dass man dann über die Leute herzieht und sagt, sie kämen, um Drogen zu verkaufen – das ist Rassismus. Natürlich gibt es Afrikaner, die Drogen verkaufen. Aber dass es überhaupt so weit kommt, ist die Folge von Rassismus. Dass einer den Ort verlässt, den er liebt, und sein Leben aufs Spiel setzt, folgt aus einer rassistischen Geschichte heraus, die mit Ausbeutung zu tun hat. Dass man hierzulande ausblendet, dass Schweizer einst am Sklaven\u00adhandel beteiligt waren, oder dass heute Konzerne wie Glencore oder die Kakao\u00adindustrie verdammt viel Blut an den Händen haben und sich in einer legalen Grauzone durchschlängeln können – das ist Rassismus. Der Rassismus beginnt nicht erst bei der Polizei\u00adkontrolle oder in dem Moment, wo jemand im Bus nicht neben mir sitzen will, sondern viel früher. Letztes Jahr hörten wir so häufig das Wort Solidarität, dass es mich schon fast triggert: Wir reden von Solidarität, aber sie gilt nur für privilegierte Kreise. An den Aussen\u00adgrenzen von Europa lässt man die Leute verhungern. Man sagt, man schicke Hilfspakete, man unterstütze Griechenland finanziell. Aber damit werden bloss die Grenzen verstärkt. Das ist doch zynisch. Und dann, wenn auf Moria 13’000 Menschen ihr Obdach verlieren und unter erbärmlichen Bedingungen leben müssen, dann sagt die Schweiz, ohne vor Scham rot zu werden: Wir nehmen 20 unbegleitete Teenager auf. 20! Von 13’000 Menschen.»"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "depth": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Alles nur Einbildung?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Wir streifen durch das Dorf, als ich den Glaskasten mit den Baldwin-Fotos entdecke. Und die erste Person, die ich frage, zeigt uns das Haus, in dem Baldwin einst schrieb: «Es klafft ein fürchterlicher Abgrund zwischen den Strassen dieses Dorfes und denen der Stadt, in der ich zur Welt kam, zwischen den Kindern, die heute ‹Neger!› schreien, und denen, die gestern ‹Nigger!› schrien. (…) Ich bin hier ein Fremder. Aber in Amerika bin ich zu Hause, und derselbe Begriff bezeichnet dort den Zwiespalt, der meine Anwesenheit in der amerikanischen Seele ausgelöst hat.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Anders als in Europa, schrieb Baldwin, seien Schwarze in den USA «keine Besucher», sondern «ebenso amerikanisch wie die Amerikaner, die sie verachten». "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Baldwins Darstellung war in diesem Punkt schon damals ahistorisch: Im Europa der 1950er-Jahre waren Schwarze längst «keine Besucher» mehr, in Kolonial\u00adstaaten wie Portugal, Grossbritannien oder Deutschland gab es seit Jahrhunderten Schwarze Bevölkerungs\u00adteile. Heute würden viele "
+                },
+                {
+                  "type": "link",
+                  "title": "Die bunten Staaten von Afropa",
+                  "url": "[[domain]]/republik/article-neuer-alter-kontinent?autoSlug",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Afropäer"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " dasselbe über sich sagen wie Baldwin einst über die Afroamerikaner: dass sie seit langem hier zu Hause sind und dass ihre Anwesenheit in der europäischen – oder der schweizerischen – Seele einen Zwiespalt ausgelöst hat. Bis heute hängen demnach einige weisse Europäer der Illusion nach, sie könnten «die europäische Unschuld wiedererlangen», wie Baldwin schrieb, «zu einem Zustand zurückkehren, in dem Schwarze nicht existieren»."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Allein und fremd zu sein, in einer feindlichen Umgebung, die gleichzeitig das eigene Zuhause ist – diesem Unwohlsein gab Black Lives Matter Raum. "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "«Mir si huere viu»,"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " rappt Nativ in einem Song. "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "«Wo isch üse Platz hie?»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Noch vor den grossen Kund\u00adgebungen letzten Sommer fand im Berner Rosengarten eine Gedenk\u00adveranstaltung statt, bei der öffentlich um George Floyd, aber auch andere Tote getrauert wurde. Auch Nativ war anwesend. «Floyd war dabei eher ein Symbol. Viele Leute trauten sich, emotional zu sein. Es war berührend und gab mir Power.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Aber danach sei vieles schiefgegangen in den Debatten. «Schnell wurde einem abgesprochen, verletzt zu sein.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Weil in der Schweiz alles nicht so schlimm sei?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Genau. Um auf meine Zeile in ‹Noir› zurückzukommen. Weiter heisst es: "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mengisch chunts mir vor, als hätte si üs d Farb gno.»"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Und genau das passierte. Sie sagten: Ist nicht so gemeint, ist doch nicht so schlimm."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Nervt es dich, ständig erklären zu müssen, was Rassismus ist, deine Erfahrungen preiszugeben, zu beweisen, dass du rassistisch behandelt wirst?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Mich nervt vor allem das Beweisen\u00admüssen. Wenn die Leute meine Erfahrungen anzweifeln und verharmlosen. Es nervt, dass sie einem nicht mal den s"
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "truggle"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " lassen. Nicht einmal den Schmerz gönnen sie uns.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Manchmal, sagt Nativ, kämen deswegen tatsächlich Zweifel in ihm auf. «Ich frage mich: Habe ich mir das eingebildet? Bin ich zu sensibel? Aber dann kommt garantiert wieder ein Spruch und ich weiss: Nein, es war keine Einbildung.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Als wir vor Baldwins Schreibstube stehen, sage ich zu Nativ, dass ich schon lange herkommen wollte. Nicht unbedingt wegen des Hauses, aber einfach um mir die Überbleibsel anderer Geschichten anzusehen als die von Wilhelm Tell und dem Gesslerhut. Ein Ort, an dem Schwarze Menschen eine Rolle spielten und ihre Spur hinterlassen haben."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Die Luft riecht nach Feuerholz, in der Ferne schlägt die Kirche zwölf Uhr und Nativ sagt: «Es hätte vermutlich noch lange gedauert, bis ich hierher\u00adgekommen wäre, hättest du mich nicht gefragt. Und doch habe ich jetzt, wo ich hier stehe, das Gefühl, es sei verdammt viel passiert an diesem Ort. Man sollte es zu einer Pilgerstätte machen!»"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "depth": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Von Auswanderern und Wirtschafts\u00adflüchtlingen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Später frage ich Nativ, wie er ein Jahr nach den grossen antirassis\u00adtischen Kund\u00adgebungen auf Black Lives Matter zurückschaut. «Ich bin natürlich enttäuscht», sagt er. «Schliesslich haben seit dem Tod von George Floyd wahnsinnig viele Menschen ihr Leben verloren aufgrund ihrer Hautfarbe.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Und wie soll es jetzt weitergehen?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Wer unterdrückt oder benachteiligt wird, muss wohl in den Spiegel schauen und sagen: Okay, wir können das nicht bis morgen verändern. Aber ich lasse mich nicht davon bestimmen. Und weisse Personen sollten sich vielleicht mal ihren Komplexen stellen: Nicht immer gleich voll auf Abwehr und in die Konfrontation rein, wenn ihnen jemand sagt, dass etwas rassistisch ist.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Wenn er zurückschaue, wie im letzten Jahr in der Schweiz über Rassismus diskutiert wurde, dann stelle er vor allem infrage, wem das Mikrofon gegeben wurde – und wem nicht. «Ich kann nicht für einen Geflüchteten im Asylheim reden. Ich kann höchstens auf ihn aufmerksam machen.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Haben wir zwei – Schweizer Söhne von je einem Schwarzen und einem weissen Elternteil – denn überhaupt etwas mit einem Geflüchteten aus Eritrea beispiels\u00adweise gemein?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Wir beide profitieren vermutlich von den gleichen Privilegien wie der Fritz aus Oberbottigen. Aber wenn ich sehe, dass ein Senegalese im Mittelmeer ertrinkt, dann ist das für mich eben nicht so weit weg, und für eine weisse Person ist das vielleicht anders. Das hat auch damit zu tun, welche Geschichten hier\u00adzulande wie erzählt werden. Vergessen wir nicht, wie viele Schweizer früher auswanderten. Das waren Wirtschafts\u00adflüchtlinge. Ich finde es völlig legitim, für ein besseres Leben auszuwandern. Aber die Schweiz sagt heute: Wir wollen keine Wirtschafts\u00adflüchtlinge. Und gleichzeitig gibt es ganze Fernseh\u00adsendungen, in denen Leute begleitet werden, weil sie "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "fancy"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " in einem anderen Land leben wollen. Sie werden aber nicht Wirtschafts\u00adflüchtlinge genannt, sondern ‹Die Auswanderer›. Ich bin "
+                },
+                {
+                  "type": "emphasis",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "broke,"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " aber ich kann überall\u00adhin. Meinem Halbbruder aus Côte d’Ivoire aber wird die Einreise in die Schweiz verwehrt. Ich konnte ihn mein ganzes Leben noch nie in die Schweiz einladen.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Warum dürfen wir, aber die anderen nicht?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Rassismus. Auf der Verpackung steht was anderes. Aber der Inhalt ist: Rassismus.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Du hast heute gesagt, du verbindest das Schwarzsein mit Schmerzen. Teilen Schwarze und People of Color in der Schweiz mehr als nur die Erfahrung des Ausschlusses?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Ja, den Willen. Und die Hoffnung.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Hoffnung? Worauf?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Wir alle, du und ich, sind letztlich das Ergebnis einer progressiven Welt. Wir sind die Bestätigung, dass die Generation vor uns sich nicht von Rassismus hat beeindrucken lassen. Wir sind zwar noch lange nicht dort, wo wir gerne wären. Aber wir sind hier. Uns eint das Durchhalte\u00advermögen trotz der ständigen Konfrontation mit etwas so Banalem wie der Hautfarbe und der Herkunft. Wir stehen jeden Morgen wieder auf und stellen uns dem – in einer weissen Gesellschaft. Ich sage das nicht, weil ich jemanden verdrängen will. Sondern weil ich auf Augenhöhe wahr\u00adgenommen werden will.»"
+                }
+              ]
+            },
+            {
+              "type": "zone",
+              "identifier": "FIGUREGROUP",
+              "data": {
+                "columns": 2,
+                "module": "figuregroup",
+                "size": "breakout"
+              },
+              "children": [
+                {
+                  "type": "zone",
+                  "identifier": "FIGURE",
+                  "data": {
+                    "excludeFromGallery": false
+                  },
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "image",
+                          "title": null,
+                          "url": "https://cdn.repub.ch/s3/republik-assets/repos/republik/article-sie-goennen-uns-nicht-einmal-den-schmerz/images/197cd5190f911ca25e79af0687511b487286ac13.jpeg?size=2000x2999",
+                          "alt": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "«Ich bin hier geboren und aufgewachsen. Aber wenn man mir immer das Gefühl gibt, anders zu sein, eben Schwarz, dann ja, dann bin ich das: Schwarz.»"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "zone",
+                  "identifier": "FIGURE",
+                  "data": {
+                    "excludeFromGallery": false
+                  },
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "image",
+                          "title": null,
+                          "url": "https://cdn.repub.ch/s3/republik-assets/repos/republik/article-sie-goennen-uns-nicht-einmal-den-schmerz/images/e4f99f97e096eefea051714bfb2e35838952acfc.jpeg?size=2000x2999",
+                          "alt": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Aber ein wenig Platz», sage ich, «wollen wir ihnen schon wegnehmen?»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Nativ lacht."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "«Ja.»"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Über Leukerbad verdunkelt sich der Himmel. Eine kleine Staublawine löst sich und stürzt die Felsklippen runter auf ein letztes Schneefeld, das dem aufkommenden Frühling trotzt. Dohlen kreisen über dem Dorf. Fast unmerklich schleicht der Nebel über die Gemmi und legt sich übers Dorf. Während die ersten Regen\u00adtropfen fallen, gehen wir zurück zum Postauto – vorbei an den alten Schindel\u00adhäusern, durch die schmalen Gassen hindurch, und ich stelle mir vor, wie einst James Baldwin, jung, gut aussehend und stolz über die schnee\u00adbedeckten Wege spazierte, die Sonne im Gesicht und die kalte Bergluft in der Nase, allen Verletzungen und Widrigkeiten des Lebens trotzend die Treppen in den ersten Stock des Burg-Hüsli hochstieg, wo die einzige Schreib\u00admaschine des Dorfes wartete und er die letzten Worte seines Essays über das Fremdsein im Dorf schrieb: «Diese Welt ist nicht länger weiss, und sie wird nie wieder weiss sein.» "
+                }
+              ]
+            },
+            {
+              "type": "zone",
+              "identifier": "INFOBOX",
+              "data": {
+                "collapsable": true
+              },
+              "children": [
+                {
+                  "type": "heading",
+                  "depth": 3,
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Zur Schreibweise"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Der Autor schreibt «Schwarz» in dieser Serie gross. Es meint keine vermeintliche Haut\u00adfarbe, sondern ist eine politische Selbst\u00adbezeichnung. Sie drückt Zugehörigkeit zu einer Gruppe Menschen aus, die auf eine bestimmte Art und Weise wahrgenommen wird und gewisse Erfahrungen teilt."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "feed": true,
+        "slug": "fremder-im-dorf",
+        "image": "https://cdn.repub.ch/s3/republik-assets/repos/republik/article-sie-goennen-uns-nicht-einmal-den-schmerz/images/de055496453282866349ca5936bea4e7dbfd7573.jpeg?size=3000x1500",
+        "title": "Fremder im Dorf",
+        "series": "[[domain]]/republik/article-seriennavigation-reise-in-schwarz-weiss",
+        "gallery": true,
+        "template": "article",
+        "shortTitle": "In Leukerbad schrieb der afroamerikanische Schriftsteller James Baldwin einst einen wegweisenden Essay über Rassismus und weisse Vorherrschaft. Was kann ein schwarzer Schweizer siebzig Jahre später noch damit anfangen? Eine Dorfbegehung mit dem Berner Rapper Nativ. «Reise in Schwarz-Weiss», Folge 4",
+        "description": "In Leukerbad schrieb der afroamerikanische Schriftsteller James Baldwin einst einen wegweisenden Essay über Rassismus und weisse Vorherrschaft. Was kann ein schwarzer Schweizer siebzig Jahre später noch damit anfangen? Eine Dorfbegehung mit dem Berner Rapper Nativ. «Reise in Schwarz-Weiss», Folge 4.",
+        "twitterTitle": "«Reise in Schwarz-Weiss», Folge 4: Fremder im Dorf",
+        "facebookTitle": "«Reise in Schwarz-Weiss», Folge 4: Fremder im Dorf",
+        "twitterDescription": "In Leukerbad schrieb der afroamerikanische Autor James Baldwin vor 70 Jahren einen Essay über Rassismus. Was bedeutet das heute dem schwarzen Schweizer Rapper Nativ?",
+        "facebookDescription": "In Leukerbad schrieb der afroamerikanische Schriftsteller James Baldwin vor 70 Jahren einen Essay über Rassismus. Was sagt das heute einem schwarzen Schweizer? Eine Dorfbegehung mit dem Rapper Nativ.",
+        "repoId": "republik/article-sie-goennen-uns-nicht-einmal-den-schmerz",
+        "path": "/2021/06/26/fremder-im-dorf",
+        "publishDate": "2021-06-26T02:50:00.000Z",
+        "lastPublishedAt": "2021-07-01T12:09:42.963Z",
+        "prepublication": false,
+        "creditsString": "Von Carlos Hanimann (Text) und Fabian Hugo (Bilder), 26.06.2021",
+        "credits": [
+          {
+            "type": "text",
+            "value": "Von "
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "/~5b6da6a6-c9fa-4ebb-a020-8dc85258310e",
+            "children": [
+              {
+                "type": "text",
+                "value": "Carlos Hanimann"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": " (Text) und Fabian Hugo (Bilder), 26.06.2021"
+          }
+        ],
+        "audioSource": null,
+        "authors": [
+          "Carlos Hanimann"
+        ],
+        "authorUserIds": [
+          "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
+        ],
+        "isSeriesMaster": false,
+        "isSeriesEpisode": true,
+        "hasAudio": false,
+        "hasVideo": false
+      }
+    },
+    "contentString": "Nach all den mir verfügbaren Informationen waren wir bei weitem nicht die Ersten, die dieses winzige Schweizer Dorf betraten, um uns auf die Spuren des längst verstorbenen Schriftstellers zu machen.\nMan erkennt das etwa an einem Glaskasten gleich neben dem Dorfplatz: Vier vergilbte Fotos und ein Textausriss hängen darin. Die Dorfbewohnerinnen machen damit Touristen darauf aufmerksam, dass einst ein weltberühmter Autor in diesem Dorf unterkam: Der US-Schriftsteller James Baldwin floh vor genau siebzig Jahren aus Paris in die Walliser Berge nach Leukerbad. Dort hatte ihn das Leben zu sehr mitgerissen, als dass er zum Schreiben gekommen wäre. Hier aber fand er die nötige Ruhe.\nMan erkennt es weiter, wenn man den Dorfplatz durch eine schmale Gasse verlässt und sich dann über eine noch engere Treppe zu einem geschindelten Chalet hochzwängt, das aussieht, als stünde es so lange da wie die schroffen Bergspitzen, die es umgeben. Dort, an einem Fensterladen des Kellers, hat die Künstlerin Sasha Huber mit silbernem Bostitch auf dunkelbraunem Holz das Porträt des Schriftstellers eingestanzt. Es erinnert daran, dass im Winter 1952 im ersten Stock des Burg-Hüsli James Baldwin den Debütroman «Go Tell It on the Mountain» fertigstellte, eine autobiografische Abhandlung über sein Aufwachsen in Harlem, New York, die ihn weltbekannt machen sollte.\nBaldwin schrieb hier oben noch einen weiteren Text. Den Essay «Stranger in the Village» (auf Deutsch «Fremder im Dorf») veröffentlichte er 1953 im «Harper’s Magazine», später in Baldwins Essayband «Notes of a Native Son», einem Klassiker der Schwarzen Literatur. Darin erzählt er von seinen Erlebnissen als Schwarzer in einem weissen Dorf, setzt sich mit dem Schwarzsein und weisser Vorherrschaft in den USA und in Europa auseinander und nimmt damit vieles vorweg, was im deutschen Sprachraum seit dem gewaltsamen Tod von George Floyd kontrovers debattiert wird. Baldwin beschreibt darin auch ein Gefühl, das viele Schwarze Schweizerinnen letzten Sommer auf die Strasse trieb: fremd zu sein im eigenen Land.\nDer Essay hat manche Autoren, Künstlerinnen und Wissenschaftlerinnen veranlasst, den beschwerlichen Weg nach Leukerbad auf sich zu nehmen oder darüber nachzudenken, ob dieser Ort, dieses Haus und das, was einst darin entstand, heute immer noch so viel zu bedeuten haben wie damals, als ein junger James Baldwin mit Norwegerpulli, Zigarette und erhobenem Haupt durch die Gassen ging, die Treppen in die enge Wohnung eines Freundes hochstieg und dort die ersten Worte seines Essays in die Schreibmaschine hämmerte: «Nach all den mir verfügbaren Informationen hatte kein Schwarzer Mensch vor mir je einen Fuss in dieses winzige Dorf gesetzt.»\nWarum die Zurückhaltung?\nThierry Gnahoré sitzt im fast leeren Zug, es ist noch früh, gerade hat er Baldwins Essay über Leukerbad gelesen, zuvor eine Baldwin-Analyse über das «Weisssein und andere Lügen» («Harte Lektüre frühmorgens!»), und jetzt lehnt er sich über seinen Kaffee im Pappbecher, der noch heiss ist, und sagt so leise, dass es fast ein Flüstern ist: «Mir ist es ein bisschen unangenehm, hier so über Weisse zu reden.»\nEs ist totenstill im Zug.\n«Ich habe das Gefühl, dass uns alle Leute zuhören. Wenn ich aussteige, habe ich wahrscheinlich den ganzen Zug zum Feind.»\nThierry Gnahoré ist Willkommen in der Scheinwelt. In der Schweizer Rapszene gilt er als einer der wichtigsten Künstler, vom Szenemagazin «Lyrics» wurde er zum besten Schweizer Rapper gekürt. Er arbeitet gerade an einem neuen Soloalbum.\nLetzten Sommer, als in vielen Städten Schwarze und People of Color gegen Rassismus und Polizeigewalt demonstrierten, tauchten mehrmals handgemalte Plakate mit Textzeilen von Nativ auf. Beispielsweise aus dem Song «Noir», in dem er sein Aufwachsen als Schwarzer Jugendlicher in einem Berner Dorf reflektiert.\nThierry Gnahoré gilt nicht als Person, die sich mit politischen Ansichten zurückhält. Und es ist nicht so, dass er jetzt in diesem Zug etwas besonders Kontroverses gesagt hätte. Im Wesentlichen bloss: Unsere Gesellschaft ist von Weissen dominiert, es gibt Rassismus. Und trotzdem redet er zögerlich, fürchtet, er könnte jemanden vor den Kopf stossen.\n«Warum die Zurückhaltung?», frage ich, und Nativ scheint sich das selber auch gefragt zu haben.\n«Vermutlich aus Selbstschutz», sagt er. «Wir wissen ja, in welcher Position wir sind: Dass wir in einer weissen Gesellschaft leben, dass es so etwas wie white fragility gibt, und dass man selber schnell zur Zielscheibe wird, wenn man Rassismus anspricht.»\nNativ war lange unsicher, ob er sich auf diesen Ausflug nach Leukerbad einlassen sollte. Obwohl – oder gerade weil er in seiner Kunst sehr offen für gesellschaftspolitische Fragen ist: Er rappt über zerrissene Identitäten und über Diskriminierung, über globale Ungerechtigkeiten und persönliche Unsicherheiten. Er ist zugänglich, prominent, hat keine Angst, seine politischen Ansichten auch neben der Bühne zu vertreten. Und er bricht mit den gängigen Klischees über den harten, männlichen Rapper.\nDieser Mix machte ihn in den letzten Jahren fast zu einer Art Go-to-Person für Medien, die einen kritischen Promi suchten. Darum hat sich Nativ zuletzt zurückgehalten mit öffentlichen Auftritten. Wer mit Nativ, dem Aktivisten, reden wollte statt mit Nativ, dem Musiker, blockte er in aller Regel ab.\nEr habe sich manchmal ausgenutzt gefühlt, sagt Nativ. Von einzelnen Medien, die aus seinen Erfahrungen mit Rassismus, seinem Schmerz und dem Hype um Black Lives Matter Profit ziehen wollten. «Die merkten: Das liest sich gut, das hört sich gut an, das gibt ein wenig buzz. Aber für mich war das alles eine sehr emotionale Sache.»\nWarum ein Wort verwenden, wenn es verletzt?\nThierry Gnahoré wurde 1993 im Kanton Bern geboren. Der Sohn einer weissen Schweizerin und eines Schwarzen Ivorers wuchs in Niederscherli auf, in einem Dorf, das zwar nicht ganz so abgelegen und klein ist wie das Leukerbad, das James Baldwin in den 1950er-Jahren antraf. Aber auch in Niederscherli lernte Nativ Rassismus in seinen simpelsten Formen kennen, wenn die Dorfbewohner das N-Wort benutzten und selbst Schulfreunde ihn so riefen.\n«Mir war damals klar, dass sie nicht unfreundlich sein wollten», schreibt Baldwin in «Stranger in the Village» über die Zurufe der Kinder. «Aber es gibt auch Tage, da ist mir nicht nach Stehenbleiben und Lächeln, und ich habe keine Lust, mit ihnen zu spielen, sondern murmle mürrisch vor mich hin, wie ich es in den Strassen einer Stadt, die diese Kinder nie gesehen haben, getan hatte, als ich kaum grösser war als sie jetzt: Your mother was a nigger.»\nNativ sagt, er verstehe Baldwin in dieser Hinsicht gut. «Er schreibt ja, wie er spürt, dass bei diesen Kindern keine böse Absicht dahintersteckt. Aber beim dritten oder vierten Mal hat er dann eben doch keinen Bock, dem einfach nur höflich zu begegnen.»\nBei ihm selbst sei es eine Frage der Verfassung, ob er lächle oder konfrontiere. Und eine Frage der Reife. «Wenn weisse Mitschüler das N-Wort sagten und lachten, dann lachte ich mit. Erst mit dem Älterwerden habe ich gemerkt, wie unwohl ich mich damals fühlte.»\nKürzlich habe er mit einer engen Verwandten gesprochen, erzählt Nativ. Sie sei ziemlich offen und progressiv. Nativ hat ein gutes Einvernehmen mit ihr, und beide sind oft auf einer Wellenlänge. «Aber dann fiel das Gespräch auf das Thema Mohrenkopf.»\nDie Aufregung um den Begriff sei völlig übertrieben, meinte die Verwandte. Man habe das doch früher auch gesagt und überhaupt sei es nicht rassistisch gemeint. «Ich wollte sofort emotional reagieren und in die Konfrontation.» Stattdessen habe er ihr erklärt, dass der Begriff sehr wohl abwertend sei und auch so eingesetzt werde. Er fragte sie, ob es eine unzumutbare Umstellung wäre, auf das Wort zu verzichten. «Ich sagte ihr: Selbst wenn du es nicht böse meinst, verletzt du damit andere Menschen.» Das sah sie ein.\n«Es ist doch einfach», sagt Nativ. «Wenn du weisst, dass du eine andere Person mit einem Wort verletzt: Warum würdest du es dann weiter verwenden wollen?»\n«Hier fühle ich mich nicht allein»\nNativs Eltern trennten sich, als er sechs Jahre alt war. Nativ wuchs mit seiner Schwester bei Mutter und Grossmutter auf. Die Familie, die Freunde, das weitere Umfeld waren weitgehend weiss. Nativ haderte mit Klischees, etwa dem des abwesenden Schwarzen Vaters. Das Schwarzsein in einer weissen Umgebung war manchmal entsprechend kompliziert und schmerzhaft.\n«Wann hast du gemerkt, dass dir Dinge passieren, die anderen nicht widerfahren?», frage ich. «Wann hast du gemerkt, dass du Schwarz bist?»\n«Es gibt viele solcher Momente. Und ich weiss nicht, welcher zuerst war. Sicher als ich als Kind bei einem Freund zu Hause war und sein Vater ganz selbstverständlich das N-Wort benutzte. Er sagte es nicht zu mir, aber ich wusste: Ich war angesprochen. Oder wenn ich bei Schulveranstaltungen mit meinem Vater zwischen all diesen weissen Leuten stand. Und dann natürlich, als mir mein Nachbar von Hand einen Brief schrieb. Da war ich etwa sieben oder acht Jahre alt. Weil ich Djembe spielte, schrieb er mir, es gebe hier andere kulturelle Gepflogenheiten und ich solle doch dahin zurück, wo ich herkomme.»\n«Bezeichnest du dich eigentlich als Schwarz?»\n«Ich bin zurückhaltend damit, weil ich – trotz allem – viele Privilegien geniesse. Ich assoziiere das Weisssein mit Privilegien. Oder: Das Schwarzsein mit weniger Privilegien. Darum will ich mich nicht auf die gleiche Ebene stellen wie jemand, der nicht hier aufgewachsen ist – wie mein Vater beispielsweise. Ich will meinen Schmerz nicht seinem gleichstellen oder gar überordnen.»\n«Im Song ‹Noir› sagst du, du hättest dich stets ‹Schwärzer› gefühlt als weiss.»\n«Ja. Und das, obwohl ich eine weisse Mutter habe, in einer weissen Gesellschaft aufgewachsen bin und lebe. Denn man hat mir ja mein ganzes Leben zu verstehen gegeben, dass ich Schwarz sei – positiv wie negativ. Die Zeile in ‹Noir» heisst: ‹Du fragsch würklech, warum dass i mi ging Schwärzer ha gfüut aus wiss? Ganz eifach: Wäge öich!› Ich bin hier geboren und aufgewachsen. Aber wenn man mir immer das Gefühl gibt, anders zu sein, eben Schwarz, dann ja, dann bin ich das: Schwarz.»\nIn seiner Jugend zog Nativ mit der Familie von Niederscherli nach Bern. Seit drei Jahren lebt er in Biel. Dort fühlt er sich wohl. Mit Blick auf das Aufwachsen auf dem Land sagt er, es gebe überall Leute, die einen nicht mögen, mit denen man nicht auskomme. «Aber in Biel habe ich zum ersten Mal das Gefühl, dass es nicht an meiner Hautfarbe liegt.»\nAuch in Biel lebe er zwar in einer weissen Gesellschaft, sagt Nativ, aber die Stadt komme dem, was er suche, sehr nahe. «Hier fühle ich mich in meinem struggle nicht so allein.»\n«Da stirbt einer, der aussieht wie ich»\nVon Biel dauert es eine halbe Stunde nach Bern. Von dort eine Stunde nach Leuk. Und von da aus bringt uns ein Bus in einer weiteren halben Stunde die kurvige Bergstrasse hoch nach Leukerbad. Als wir ankommen, geht ein kühler Wind. Der Schnee ist an diesem Mittwoch Mitte Mai längst geschmolzen. Hingeklotzte Neubauten verstellen den Blick auf die verwitterten Chalets. Heute rennen keine Kinder durch die Gassen, rufen das N-Wort und reiben ihre Hände in einer Art Mutprobe an unserer Haut, um zu sehen, ob sie abfärbt, wie damals, als James Baldwin hier weilte.\nBaldwin habe in Leukerbad Rassismus in seinen einfachsten Ausgestaltungen angetroffen, schreibt der nigerianisch-amerikanische Schriftsteller Teju Cole: Die Dorfbewohner machten sich über Baldwin lustig, rieten ihm, aus seinen Haaren einen Mantel zu fertigen, und beschuldigten ihn hinter seinem Rücken, er stehle Feuerholz. «Leukerbad», heisst es bei Cole, «erlaubte es Baldwin, von Grund auf über weisse Vorherrschaft nachzudenken.»\nTeju Cole kam im Sommer 2014 hierher, zwei Wochen nachdem weisse Polizisten Eric Garner in New York erwürgt hatten, nur wenige Tage bevor in Ferguson der 18-jährige Michael Brown von Polizisten erschossen wurde. Schwarzsein, schrieb Cole in diesem Zusammenhang, bedeute, «in einem Zustand psychischer Schwankungen zu leben, ohne Garantie auf persönliche Sicherheit».\nIch frage Nativ, was er dachte, als er letztes Jahr vom Mord an George Floyd hörte.\n«Als ich das Video sah, fühlte ich mich sofort betroffen», sagt Nativ. «Natürlich ist mein Leben hier in der Schweiz nicht mit dem in den USA zu vergleichen. Aber was ich da sah, hatte auch nichts damit zu tun, ob dieser Mann etwas getan hatte oder nicht, sondern schlicht mit Rassismus. Es spielte keine Rolle, ob das in den USA passierte oder direkt vor meiner Haustür. Es war allgegenwärtig. Ich sah: Da stirbt ein Mensch, der aussieht wie ich. Und bei mir gingen die Alarmglocken los.»\n«Viele sagten: Das ist Amerika, nicht die Schweiz.»\n«Ja, ich kann dem sogar zustimmen. Aber muss denn wirklich das Schlimmste geschehen, damit man über Rassismus redet? Man muss nicht mal in die USA schauen. Nehmen wir unsere Flüchtlingspolitik, unsere Einbürgerungspolitik – sie ist Ausdruck von Rassismus. Dass man Afrikaner übers Mittelmeer fahren und sie dort ertrinken lässt, dass man, wenn sie es doch in die Schweiz schaffen, sie hier wie Hunde leben und nicht arbeiten lässt – das ist Rassismus. Dass man dann über die Leute herzieht und sagt, sie kämen, um Drogen zu verkaufen – das ist Rassismus. Natürlich gibt es Afrikaner, die Drogen verkaufen. Aber dass es überhaupt so weit kommt, ist die Folge von Rassismus. Dass einer den Ort verlässt, den er liebt, und sein Leben aufs Spiel setzt, folgt aus einer rassistischen Geschichte heraus, die mit Ausbeutung zu tun hat. Dass man hierzulande ausblendet, dass Schweizer einst am Sklavenhandel beteiligt waren, oder dass heute Konzerne wie Glencore oder die Kakaoindustrie verdammt viel Blut an den Händen haben und sich in einer legalen Grauzone durchschlängeln können – das ist Rassismus. Der Rassismus beginnt nicht erst bei der Polizeikontrolle oder in dem Moment, wo jemand im Bus nicht neben mir sitzen will, sondern viel früher. Letztes Jahr hörten wir so häufig das Wort Solidarität, dass es mich schon fast triggert: Wir reden von Solidarität, aber sie gilt nur für privilegierte Kreise. An den Aussengrenzen von Europa lässt man die Leute verhungern. Man sagt, man schicke Hilfspakete, man unterstütze Griechenland finanziell. Aber damit werden bloss die Grenzen verstärkt. Das ist doch zynisch. Und dann, wenn auf Moria 13’000 Menschen ihr Obdach verlieren und unter erbärmlichen Bedingungen leben müssen, dann sagt die Schweiz, ohne vor Scham rot zu werden: Wir nehmen 20 unbegleitete Teenager auf. 20! Von 13’000 Menschen.»\nAlles nur Einbildung?\nWir streifen durch das Dorf, als ich den Glaskasten mit den Baldwin-Fotos entdecke. Und die erste Person, die ich frage, zeigt uns das Haus, in dem Baldwin einst schrieb: «Es klafft ein fürchterlicher Abgrund zwischen den Strassen dieses Dorfes und denen der Stadt, in der ich zur Welt kam, zwischen den Kindern, die heute ‹Neger!› schreien, und denen, die gestern ‹Nigger!› schrien. (…) Ich bin hier ein Fremder. Aber in Amerika bin ich zu Hause, und derselbe Begriff bezeichnet dort den Zwiespalt, der meine Anwesenheit in der amerikanischen Seele ausgelöst hat.»\nAnders als in Europa, schrieb Baldwin, seien Schwarze in den USA «keine Besucher», sondern «ebenso amerikanisch wie die Amerikaner, die sie verachten». \nBaldwins Darstellung war in diesem Punkt schon damals ahistorisch: Im Europa der 1950er-Jahre waren Schwarze längst «keine Besucher» mehr, in Kolonialstaaten wie Portugal, Grossbritannien oder Deutschland gab es seit Jahrhunderten Schwarze Bevölkerungsteile. Heute würden viele Die bunten Staaten von Afropa dasselbe über sich sagen wie Baldwin einst über die Afroamerikaner: dass sie seit langem hier zu Hause sind und dass ihre Anwesenheit in der europäischen – oder der schweizerischen – Seele einen Zwiespalt ausgelöst hat. Bis heute hängen demnach einige weisse Europäer der Illusion nach, sie könnten «die europäische Unschuld wiedererlangen», wie Baldwin schrieb, «zu einem Zustand zurückkehren, in dem Schwarze nicht existieren».\nAllein und fremd zu sein, in einer feindlichen Umgebung, die gleichzeitig das eigene Zuhause ist – diesem Unwohlsein gab Black Lives Matter Raum. «Mir si huere viu», rappt Nativ in einem Song. «Wo isch üse Platz hie?»\nNoch vor den grossen Kundgebungen letzten Sommer fand im Berner Rosengarten eine Gedenkveranstaltung statt, bei der öffentlich um George Floyd, aber auch andere Tote getrauert wurde. Auch Nativ war anwesend. «Floyd war dabei eher ein Symbol. Viele Leute trauten sich, emotional zu sein. Es war berührend und gab mir Power.»\nAber danach sei vieles schiefgegangen in den Debatten. «Schnell wurde einem abgesprochen, verletzt zu sein.»\n«Weil in der Schweiz alles nicht so schlimm sei?»\n«Genau. Um auf meine Zeile in ‹Noir› zurückzukommen. Weiter heisst es: Mengisch chunts mir vor, als hätte si üs d Farb gno.» Und genau das passierte. Sie sagten: Ist nicht so gemeint, ist doch nicht so schlimm.\n«Nervt es dich, ständig erklären zu müssen, was Rassismus ist, deine Erfahrungen preiszugeben, zu beweisen, dass du rassistisch behandelt wirst?»\n«Mich nervt vor allem das Beweisenmüssen. Wenn die Leute meine Erfahrungen anzweifeln und verharmlosen. Es nervt, dass sie einem nicht mal den struggle lassen. Nicht einmal den Schmerz gönnen sie uns.»\nManchmal, sagt Nativ, kämen deswegen tatsächlich Zweifel in ihm auf. «Ich frage mich: Habe ich mir das eingebildet? Bin ich zu sensibel? Aber dann kommt garantiert wieder ein Spruch und ich weiss: Nein, es war keine Einbildung.»\nAls wir vor Baldwins Schreibstube stehen, sage ich zu Nativ, dass ich schon lange herkommen wollte. Nicht unbedingt wegen des Hauses, aber einfach um mir die Überbleibsel anderer Geschichten anzusehen als die von Wilhelm Tell und dem Gesslerhut. Ein Ort, an dem Schwarze Menschen eine Rolle spielten und ihre Spur hinterlassen haben.\nDie Luft riecht nach Feuerholz, in der Ferne schlägt die Kirche zwölf Uhr und Nativ sagt: «Es hätte vermutlich noch lange gedauert, bis ich hierhergekommen wäre, hättest du mich nicht gefragt. Und doch habe ich jetzt, wo ich hier stehe, das Gefühl, es sei verdammt viel passiert an diesem Ort. Man sollte es zu einer Pilgerstätte machen!»\nVon Auswanderern und Wirtschaftsflüchtlingen\nSpäter frage ich Nativ, wie er ein Jahr nach den grossen antirassistischen Kundgebungen auf Black Lives Matter zurückschaut. «Ich bin natürlich enttäuscht», sagt er. «Schliesslich haben seit dem Tod von George Floyd wahnsinnig viele Menschen ihr Leben verloren aufgrund ihrer Hautfarbe.»\n«Und wie soll es jetzt weitergehen?»\n«Wer unterdrückt oder benachteiligt wird, muss wohl in den Spiegel schauen und sagen: Okay, wir können das nicht bis morgen verändern. Aber ich lasse mich nicht davon bestimmen. Und weisse Personen sollten sich vielleicht mal ihren Komplexen stellen: Nicht immer gleich voll auf Abwehr und in die Konfrontation rein, wenn ihnen jemand sagt, dass etwas rassistisch ist.»\nWenn er zurückschaue, wie im letzten Jahr in der Schweiz über Rassismus diskutiert wurde, dann stelle er vor allem infrage, wem das Mikrofon gegeben wurde – und wem nicht. «Ich kann nicht für einen Geflüchteten im Asylheim reden. Ich kann höchstens auf ihn aufmerksam machen.»\n«Haben wir zwei – Schweizer Söhne von je einem Schwarzen und einem weissen Elternteil – denn überhaupt etwas mit einem Geflüchteten aus Eritrea beispielsweise gemein?»\n«Wir beide profitieren vermutlich von den gleichen Privilegien wie der Fritz aus Oberbottigen. Aber wenn ich sehe, dass ein Senegalese im Mittelmeer ertrinkt, dann ist das für mich eben nicht so weit weg, und für eine weisse Person ist das vielleicht anders. Das hat auch damit zu tun, welche Geschichten hierzulande wie erzählt werden. Vergessen wir nicht, wie viele Schweizer früher auswanderten. Das waren Wirtschaftsflüchtlinge. Ich finde es völlig legitim, für ein besseres Leben auszuwandern. Aber die Schweiz sagt heute: Wir wollen keine Wirtschaftsflüchtlinge. Und gleichzeitig gibt es ganze Fernsehsendungen, in denen Leute begleitet werden, weil sie fancy in einem anderen Land leben wollen. Sie werden aber nicht Wirtschaftsflüchtlinge genannt, sondern ‹Die Auswanderer›. Ich bin broke, aber ich kann überallhin. Meinem Halbbruder aus Côte d’Ivoire aber wird die Einreise in die Schweiz verwehrt. Ich konnte ihn mein ganzes Leben noch nie in die Schweiz einladen.»\n«Warum dürfen wir, aber die anderen nicht?»\n«Rassismus. Auf der Verpackung steht was anderes. Aber der Inhalt ist: Rassismus.»\n«Du hast heute gesagt, du verbindest das Schwarzsein mit Schmerzen. Teilen Schwarze und People of Color in der Schweiz mehr als nur die Erfahrung des Ausschlusses?»\n«Ja, den Willen. Und die Hoffnung.»\n«Hoffnung? Worauf?»\n«Wir alle, du und ich, sind letztlich das Ergebnis einer progressiven Welt. Wir sind die Bestätigung, dass die Generation vor uns sich nicht von Rassismus hat beeindrucken lassen. Wir sind zwar noch lange nicht dort, wo wir gerne wären. Aber wir sind hier. Uns eint das Durchhaltevermögen trotz der ständigen Konfrontation mit etwas so Banalem wie der Hautfarbe und der Herkunft. Wir stehen jeden Morgen wieder auf und stellen uns dem – in einer weissen Gesellschaft. Ich sage das nicht, weil ich jemanden verdrängen will. Sondern weil ich auf Augenhöhe wahrgenommen werden will.»\n«Aber ein wenig Platz», sage ich, «wollen wir ihnen schon wegnehmen?»\nNativ lacht.\n«Ja.»\nÜber Leukerbad verdunkelt sich der Himmel. Eine kleine Staublawine löst sich und stürzt die Felsklippen runter auf ein letztes Schneefeld, das dem aufkommenden Frühling trotzt. Dohlen kreisen über dem Dorf. Fast unmerklich schleicht der Nebel über die Gemmi und legt sich übers Dorf. Während die ersten Regentropfen fallen, gehen wir zurück zum Postauto – vorbei an den alten Schindelhäusern, durch die schmalen Gassen hindurch, und ich stelle mir vor, wie einst James Baldwin, jung, gut aussehend und stolz über die schneebedeckten Wege spazierte, die Sonne im Gesicht und die kalte Bergluft in der Nase, allen Verletzungen und Widrigkeiten des Lebens trotzend die Treppen in den ersten Stock des Burg-Hüsli hochstieg, wo die einzige Schreibmaschine des Dorfes wartete und er die letzten Worte seines Essays über das Fremdsein im Dorf schrieb: «Diese Welt ist nicht länger weiss, und sie wird nie wieder weiss sein.»",
+    "__state": {
+      "published": true,
+      "prepublished": true
+    }
+  }
+}
