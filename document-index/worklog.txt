@@ -1,0 +1,233 @@
+PUT /republik
+{
+  "settings": {
+    "index": {
+      "number_of_shards": "5",
+      "analysis": {
+        "filter": {
+          "german_stemmer": {
+            "type": "stemmer",
+            "language": "light_german"
+          }
+        },
+        "analyzer": {
+          "german_with_stopwords": {
+            "filter": [
+              "lowercase",
+              "german_normalization",
+              "german_stemmer"
+            ],
+            "tokenizer": "standard"
+          }
+        }
+      },
+      "number_of_replicas": "1",
+      "version": {
+        "created": "6081099"
+      }
+    }
+  },
+  "mappings": {
+    "Document": {
+      "dynamic": "false",
+      "properties": {
+        "__sort": {
+          "properties": {
+            "date": {
+              "type": "date"
+            }
+          }
+        },
+        "__state": {
+          "properties": {
+            "prepublished": {
+              "type": "boolean"
+            },
+            "published": {
+              "type": "boolean"
+            }
+          }
+        },
+        "__type": {
+          "type": "keyword"
+        },
+        "commitId": {
+          "type": "keyword"
+        },
+        "contentString": {
+          "type": "text",
+          "fields": {
+            "count": {
+              "type": "token_count",
+              "store": true,
+              "analyzer": "standard"
+            }
+          },
+          "analyzer": "german",
+          "fielddata": true
+        },
+        "meta": {
+          "properties": {
+            "audioSource": {
+              "properties": {
+                "aac": {
+                  "type": "keyword"
+                },
+                "mp3": {
+                  "type": "keyword"
+                },
+                "ogg": {
+                  "type": "keyword"
+                }
+              }
+            },
+            "credits": {
+              "properties": {
+                "children": {
+                  "type": "object"
+                },
+                "type": {
+                  "type": "keyword"
+                },
+                "url": {
+                  "type": "keyword"
+                },
+                "value": {
+                  "type": "keyword"
+                }
+              }
+            },
+            "creditsString": {
+              "type": "text",
+              "analyzer": "german_with_stopwords"
+            },
+            "description": {
+              "type": "text",
+              "analyzer": "german"
+            },
+            "discussionId": {
+              "type": "keyword"
+            },
+            "dossier": {
+              "type": "keyword"
+            },
+            "feed": {
+              "type": "boolean"
+            },
+            "format": {
+              "type": "keyword"
+            },
+            "hasAudio": {
+              "type": "boolean"
+            },
+            "hasVideo": {
+              "type": "boolean"
+            },
+            "isSeriesEpisode": {
+              "type": "boolean"
+            },
+            "isSeriesMaster": {
+              "type": "boolean"
+            },
+            "kind": {
+              "type": "keyword"
+            },
+            "path": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "prepublication": {
+              "type": "boolean"
+            },
+            "publishDate": {
+              "type": "date"
+            },
+            "repoId": {
+              "type": "keyword"
+            },
+            "scheduledAt": {
+              "type": "date"
+            },
+            "section": {
+              "type": "keyword"
+            },
+            "seriesEpisodes": {
+              "properties": {
+                "title": {
+                  "type": "text",
+                  "analyzer": "german_with_stopwords"
+                }
+              }
+            },
+            "shortTitle": {
+              "type": "text",
+              "analyzer": "german_with_stopwords"
+            },
+            "template": {
+              "type": "keyword"
+            },
+            "title": {
+              "type": "text",
+              "analyzer": "german_with_stopwords"
+            }
+          }
+        },
+        "resolved": {
+          "properties": {
+            "meta": {
+              "properties": {
+                "dossier": {
+                  "properties": {
+                    "meta": {
+                      "properties": {
+                        "title": {
+                          "type": "text",
+                          "analyzer": "german_with_stopwords"
+                        }
+                      }
+                    }
+                  }
+                },
+                "format": {
+                  "properties": {
+                    "meta": {
+                      "properties": {
+                        "kind": {
+                          "type": "keyword"
+                        },
+                        "title": {
+                          "type": "text",
+                          "analyzer": "german_with_stopwords"
+                        }
+                      }
+                    }
+                  }
+                },
+                "section": {
+                  "properties": {
+                    "meta": {
+                      "properties": {
+                        "title": {
+                          "type": "text",
+                          "analyzer": "german_with_stopwords"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "versionName": {
+          "type": "keyword"
+        }
+      }
+    }
+  }
+}
