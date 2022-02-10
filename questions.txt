@@ -1,0 +1,30 @@
+questions:
+
+
+study case:
+https://www.republik.ch/2021/09/15/warum-sie-mit-arbeit-niemals-reich-werden
+
+
+1) 
+search term: Arbeitsmarktlage copy from article into search field:
+Url : https://www.republik.ch/suche?q=arbeits%C2%ADmarkt%C2%ADlage
+encoded in the page as Arbeits&shy;markt&shy;lage
+
+
+2) 
+search term: arbeits markt lage
+url : https://www.republik.ch/suche?q=arbeits+markt+lage
+
+
+3) word decomposition not working
+where to install install the decomposer-pluggin?
+
+4) check the ranking
+
+
+5) number_of_shards: 5 /number_of_replicas: 1 ??
+
+
+-> Patrick's' examples
+https://orbit7.slack.com/archives/C02TXQANZ2B/p1644480925426649
+
