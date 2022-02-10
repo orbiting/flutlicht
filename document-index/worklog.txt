@@ -1,3 +1,2160 @@
+
+POST /republik/_doc/1
+{
+  "__sort": {
+    "date": "2021-12-07T03:48:00.000Z"
+  },
+  "meta": {
+    "template": "article",
+    "auto": true,
+    "isSeriesEpisode": false,
+    "publishDate": "2021-12-07T03:48:00.000Z",
+    "lastPublishedAt": "2021-12-09T14:03:59.213Z",
+    "description": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+    "audioSource": {"source": "somevaluehere"},
+    "shortTitle": "Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
+    "title": "Die Jagd nach Fehlern im Programmcode ist eröffnet",
+    "authorUserIds": [
+      "b86f9625-96b8-4886-b6b9-baf4fb657939"
+    ],
+    "path": "/2021/12/07/die-jagd-nach-fehlern-im-programmcode-ist-eroeffnet",
+    "shareInverted": true,
+    "credits": [
+      {
+        "type": "text",
+        "value": "Von "
+      },
+      {
+        "children": [
+          {
+            "type": "text",
+            "value": "Patrick Venetz"
+          }
+        ],
+        "type": "link",
+        "title": null,
+        "url": "/~b86f9625-96b8-4886-b6b9-baf4fb657939"
+      },
+      {
+        "type": "text",
+        "value": ", 07.12.2021"
+      }
+    ],
+    "shareText": "Wer kann sich Zugriff verschaffen auf Rechte und Daten, die wir nicht für Aussenstehende vorgesehen haben?",
+    "prepublication": false,
+    "slug": "die-jagd-nach-fehlern-im-programmcode-ist-eroeffnet",
+    "gallery": false,
+    "hasVideo": false,
+    "repoId": "republik/article-fehler-jagd",
+    "isSeriesMaster": false,
+    "hasAudio": false,
+    "shareFontSize": 56,
+    "format": "[[domain]]/republik/format-an-die-verleger",
+    "facebookDescription": "Wir laden Hackerinnen ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+    "feed": true,
+    "creditsString": "Von Patrick Venetz, 07.12.2021",
+    "autoSlug": true,
+    "shareTextPosition": "bottom",
+    "authors": [
+      "Patrick Venetz"
+    ]
+  },
+  "contentString": """Täglich nutzen viele tausend Menschen die Republik.
+Sie schreiben Dialogbeiträge, verlängern ihre Mitgliedschaft – und lesen Beiträge. So, wie Sie das gerade tun.
+Dabei stossen Nutzer täglich viele tausend Zeilen Programmcode an.
+Sie geben damit unseren Systemen die Anweisungen, welche Texte und Bilder aus den Datenbanken geladen werden sollen oder welches Konto seinen Republik-Zugang teilen will.
+Wir nutzen dafür eigens für unsere Zwecke geschaffene Software, die für alle einsehbar ist. Darin zu finden sind unter anderem der Programmcode der Website, der App und der Schnittstelle, die Inhalte wie Texte oder Bilder an die Website und die App ausliefert.
+Jede Woche ändern sich Hunderte Zeilen dieses Programmcodes, um neue Funktionalitäten zu unterstützen oder Fehler zu entfernen, denen Sie oder wir auf die Schliche gekommen sind.
+Fehlern auf die Schliche zu kommen, ist nicht einfach.
+Im Tech-Team der Republik besitzen wir Instrumente, um Fehler überhaupt erst zu vermeiden. Uns helfen gute Planung, die Nutzung von Industriestandards, technisches Verständnis, Tests und ein Vier-Augen-Prinzip, bevor wir Änderungen auf unseren Systemen ausrollen.
+Aber es gibt unzählige Beispiele, wie schnell sich die gemeine Softwareentwicklerin in falscher Sicherheit wiegen kann. Uns graut davor, eines Tages eine Mitteilung an Nutzer verschicken zu müssen, in der steht, dass Kundendaten abgegriffen wurden.
+Um einer solchen Situation vorzubeugen, brauchen wir etwas anderes: einen geschulten Blick von aussen.
+Deshalb legen wir ab sofort ein sogenanntes Bug-Bounty-Programm auf (also ein «Softwarefehler-Kopfgeld-Programm»). In Zusammenarbeit mit der Bug Bounty Hub AG laden wir wohlgesinnte Hackerinnen aus aller Welt ein, Sicherheitslücken in den Systemen der Republik zu finden.
+Innerhalb eines nach Schweizer Recht abgestützten Rahmens können sie die Systeme der Republik «penetrieren» und gefundene Sicherheitslücken melden – und erhalten dafür eine monetäre Belohnung.
+Dabei haben diese friendly hacker auf nichts anderes Zugriff, als Sie auch hätten. Bloss können sie tiefer graben. Sie versuchen, an Rechte und Daten zu gelangen, die wir nicht für Aussenstehende vorgesehen haben. Das hört sich gruselig an, ist aber eigentlich sehr zuvorkommend. Sie geben den Bösewicht, bevor echte Bösewichte gewollt Ungewolltes tun.
+Um zu verstehen, wie heftig das ganze Vorhaben für uns werden könnte, haben wir bereits eine Art Probelauf gestartet, einen «Penetrationstest».
+Während zweier Tage im November sahen sich von Bug Bounty Hub ausgewählte Hacker in unserem Code und in unserer technischen Infrastruktur um. Sie versuchten, auf der Website Defekte zu finden, und starteten automatisierte Angriffsversuche gegen unsere Infrastruktur. Anschliessend gaben sie uns eine Einschätzung über kritische Bereiche und Möglichkeiten zur Optimierung. 
+Der daraus entstandene, sehr technisch geratene Bericht hat bereits zu Verbesserungen geführt.
+Nun startet das eigentliche Bug-Bounty-Programm, und wir hoffen, tiefer liegende, nicht offensichtliche Schwachstellen und Programmfehler zu finden – fortlaufend und bevor sie ausgenutzt werden.
+Falls Sie zufällig zur Gilde der Hackerinnen gehören, hier finden Sie Einlass.""",
+  "__state": {
+    "prepublished": true,
+    "published": true
+  },
+  "__type": "Document",
+  "id": "cmVwdWJsaWsvYXJ0aWNsZS1mZWhsZXItamFnZC8zMTJkNTRjNS03ZDM4LTQ5OTQtYWUxNi1kZjJhYWUzNDY3YmQvdjY=",
+  "commitId": "312d54c5-7d38-4994-ae16-df2aae3467bd",
+  "versionName": "v6",
+  "content": {
+    "children": [
+      {
+        "identifier": "TITLE",
+        "data": {},
+        "children": [
+          {
+            "depth": 1,
+            "children": [
+              {
+                "type": "text",
+                "value": "Die Jagd nach Fehlern im Programmcode ist eröffnet"
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "depth": 2,
+            "children": [],
+            "type": "heading"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Von "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Patrick Venetz"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "/~b86f9625-96b8-4886-b6b9-baf4fb657939"
+              },
+              {
+                "type": "text",
+                "value": ", 07.12.2021"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "type": "zone"
+      },
+      {
+        "identifier": "CENTER",
+        "data": {},
+        "children": [
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Täglich nutzen viele tausend Menschen die Republik."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Sie schreiben Dialog­beiträge, verlängern ihre Mitgliedschaft – und lesen Beiträge. So, wie Sie das gerade tun."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Dabei stossen Nutzer täglich viele tausend Zeilen Programmcode an."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Sie geben damit unseren Systemen die Anweisungen, welche Texte und Bilder aus den Daten­banken geladen werden sollen oder welches Konto "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "seinen Republik-Zugang teilen"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://www.republik.ch/teilen"
+              },
+              {
+                "type": "text",
+                "value": " will."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Wir nutzen dafür eigens für unsere Zwecke geschaffene Software, "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "die für alle einsehbar ist"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "[[domain]]/orbiting"
+              },
+              {
+                "type": "text",
+                "value": ". Darin zu finden sind unter anderem der Programm­code der "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Website"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "[[domain]]/orbiting/republik-frontend"
+              },
+              {
+                "type": "text",
+                "value": ", der "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "App"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "[[domain]]/orbiting/app/"
+              },
+              {
+                "type": "text",
+                "value": " und der "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Schnittstelle"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "[[domain]]/orbiting/backends"
+              },
+              {
+                "type": "text",
+                "value": ", die Inhalte wie Texte oder Bilder an die Website und die App ausliefert."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Jede Woche ändern sich Hunderte Zeilen dieses Programm­codes, um neue Funktionalitäten zu unterstützen oder Fehler zu entfernen, denen Sie oder wir auf die Schliche gekommen sind."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Fehlern auf die Schliche zu kommen, ist nicht einfach."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Im Tech-Team der Republik besitzen wir Instrumente, um Fehler überhaupt erst zu vermeiden. Uns helfen gute Planung, die Nutzung von Industrie­standards, technisches Verständnis, Tests und ein Vier-Augen-Prinzip, bevor wir Änderungen auf unseren Systemen ausrollen."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Aber es gibt unzählige Beispiele, wie schnell sich die gemeine Software­entwicklerin "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "in falscher Sicherheit wiegen kann"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://www.zeit.de/digital/datenschutz/2017-09/bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiter"
+              },
+              {
+                "type": "text",
+                "value": ". Uns graut davor, eines Tages eine Mitteilung an Nutzer verschicken zu müssen, in der steht, dass "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Kunden­daten abgegriffen wurden"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://www.tagesanzeiger.ch/wirtschaft/standardvips-und-swisscomchefs-von-datenleck-betroffen/story/30785273"
+              },
+              {
+                "type": "text",
+                "value": "."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Um einer solchen Situation vorzubeugen, brauchen wir etwas anderes: einen geschulten Blick von aussen."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Deshalb legen wir ab sofort ein sogenanntes Bug-Bounty-Programm auf (also ein «Software­fehler-Kopfgeld-Programm»). In Zusammen­arbeit mit der "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Bug Bounty Hub AG"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://bugbountyhub.com"
+              },
+              {
+                "type": "text",
+                "value": " laden wir wohlgesinnte Hackerinnen aus aller Welt ein, Sicherheits­lücken in den Systemen der Republik zu finden."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Innerhalb eines nach Schweizer Recht abgestützten Rahmens können sie die Systeme der Republik «penetrieren» und gefundene Sicherheits­lücken melden – und erhalten dafür eine monetäre Belohnung."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Dabei haben diese "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "friendly hacker"
+                  }
+                ],
+                "type": "emphasis"
+              },
+              {
+                "type": "text",
+                "value": " auf nichts anderes Zugriff, als Sie auch hätten. Bloss können sie tiefer graben. Sie versuchen, an Rechte und Daten zu gelangen, die wir nicht für Aussen­stehende vorgesehen haben. Das hört sich gruselig an, ist aber eigentlich sehr zuvorkommend. Sie geben den Bösewicht, bevor echte Bösewichte gewollt Ungewolltes tun."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Um zu verstehen, wie heftig das ganze Vorhaben für uns werden könnte, haben wir bereits eine Art Probe­lauf gestartet, einen «Penetrationstest»."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Während zweier Tage im November sahen sich von Bug Bounty Hub ausgewählte Hacker in unserem Code und in unserer technischen Infrastruktur um. Sie versuchten, auf der Website Defekte zu finden, und starteten automatisierte Angriffs­versuche gegen unsere Infrastruktur. Anschliessend gaben sie uns eine Einschätzung über kritische Bereiche und Möglichkeiten zur Optimierung. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Der daraus entstandene, "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "sehr technisch geratene Bericht"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://cdn.repub.ch/s3/republik-assets/assets/article-fehler-jagd/report-pentest.pdf"
+              },
+              {
+                "type": "text",
+                "value": " hat bereits zu Verbesserungen geführt."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Nun startet das eigentliche Bug-Bounty-Programm, und wir hoffen, tiefer liegende, nicht offen­sichtliche Schwach­stellen und Programm­fehler zu finden – fortlaufend und bevor sie ausgenutzt werden."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Falls Sie zufällig zur Gilde der Hackerinnen gehören, "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "hier finden Sie Einlass"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://bugbountyhub.com/de-ch/programs/republik"
+              },
+              {
+                "type": "text",
+                "value": "."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "identifier": "ARTICLECOLLECTION",
+            "data": {
+              "membersOnly": true,
+              "unauthorizedText": ""
+            },
+            "children": [
+              {
+                "depth": 2,
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Lesen Sie auch:"
+                  }
+                ],
+                "type": "heading"
+              },
+              {
+                "identifier": "TEASERGROUP",
+                "data": {},
+                "children": [
+                  {
+                    "identifier": "TEASER",
+                    "data": {
+                      "textPosition": "topleft",
+                      "kind": "meta",
+                      "teaserType": "articleTile",
+                      "center": false,
+                      "showImage": true,
+                      "titleSize": "standard",
+                      "id": "VrMZcOhch",
+                      "reverse": false,
+                      "portrait": true,
+                      "byline": null,
+                      "url": "[[domain]]/republik/page-ihre-stimme-fuer-project-r?autoSlug",
+                      "onlyImage": false
+                    },
+                    "children": [
+                      {
+                        "depth": 6,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "An die Verlagsetage"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 1,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Sie haben entschieden"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 2,
+                        "children": [],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 4,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Jünger, weiblicher, in der Unternehmens­führung breiter aufgestellt und alle Vorlagen angenommen: Sie haben entschieden – die Resultate der Urabstimmung 2021."
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Update: 01.12.2021"
+                          }
+                        ],
+                        "type": "paragraph"
+                      }
+                    ],
+                    "type": "zone"
+                  },
+                  {
+                    "identifier": "TEASER",
+                    "data": {
+                      "formatUrl": "[[domain]]/republik/format-aus-der-redaktion?autoSlug",
+                      "textPosition": "topleft",
+                      "kind": "meta",
+                      "teaserType": "articleTile",
+                      "center": false,
+                      "showImage": true,
+                      "titleSize": "standard",
+                      "reverse": false,
+                      "portrait": true,
+                      "url": "[[domain]]/republik/article-warum-sie-sehen-was-sie-sehen?autoSlug",
+                      "formatColor": "#000000",
+                      "onlyImage": false,
+                      "id": "kD_pU1efAn",
+                      "byline": null
+                    },
+                    "children": [
+                      {
+                        "depth": 6,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Aus der Redaktion"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 1,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Warum Sie sehen, was Sie sehen"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 2,
+                        "children": [],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 4,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Wie gelangen die Bilder in die Republik? Oder: Wie arbeitet eigentlich eine Bildredaktorin?"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Von "
+                          },
+                          {
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Ihrer Bildredaktion"
+                              }
+                            ],
+                            "type": "link",
+                            "title": null,
+                            "url": "https://www.republik.ch/impressum"
+                          },
+                          {
+                            "type": "text",
+                            "value": ", 14.05.2021"
+                          }
+                        ],
+                        "type": "paragraph"
+                      }
+                    ],
+                    "type": "zone"
+                  },
+                  {
+                    "identifier": "TEASER",
+                    "data": {
+                      "formatUrl": "[[domain]]/republik/format-an-die-verleger?autoSlug",
+                      "textPosition": "topleft",
+                      "kind": "meta",
+                      "teaserType": "articleTile",
+                      "center": false,
+                      "showImage": true,
+                      "titleSize": "standard",
+                      "reverse": false,
+                      "portrait": true,
+                      "url": "[[domain]]/republik/article-republik-app-zwei-punkt-null?autoSlug",
+                      "formatColor": "#000",
+                      "onlyImage": false,
+                      "id": "ApmlvOimWJ",
+                      "byline": null
+                    },
+                    "children": [
+                      {
+                        "depth": 6,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "An die Verlagsetage"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 1,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Unsichtbares Update"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 2,
+                        "children": [],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 4,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "In den letzten Tagen haben wir klammheimlich ein längst überfälliges Update der Republik-App ausgespielt. Was sich dadurch verbessert – und warum es so lange gedauert hat."
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Von "
+                          },
+                          {
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Patrick Venetz"
+                              }
+                            ],
+                            "type": "link",
+                            "title": "Patrick Venetz",
+                            "url": "/~b86f9625-96b8-4886-b6b9-baf4fb657939"
+                          },
+                          {
+                            "type": "text",
+                            "value": ", 22.02.2021"
+                          }
+                        ],
+                        "type": "paragraph"
+                      }
+                    ],
+                    "type": "zone"
+                  }
+                ],
+                "type": "zone"
+              }
+            ],
+            "type": "zone"
+          }
+        ],
+        "type": "zone"
+      }
+    ],
+    "meta": {
+      "template": "article",
+      "auto": true,
+      "isSeriesEpisode": false,
+      "publishDate": "2021-12-07T03:48:00.000Z",
+      "lastPublishedAt": "2021-12-09T14:03:59.213Z",
+      "description": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+      "audioSource": null,
+      "shortTitle": "Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
+      "title": "Die Jagd nach Fehlern im Programmcode ist eröffnet",
+      "authorUserIds": [
+        "b86f9625-96b8-4886-b6b9-baf4fb657939"
+      ],
+      "path": "/2021/12/07/die-jagd-nach-fehlern-im-programmcode-ist-eroeffnet",
+      "shareInverted": true,
+      "credits": [
+        {
+          "type": "text",
+          "value": "Von "
+        },
+        {
+          "children": [
+            {
+              "type": "text",
+              "value": "Patrick Venetz"
+            }
+          ],
+          "type": "link",
+          "title": null,
+          "url": "/~b86f9625-96b8-4886-b6b9-baf4fb657939"
+        },
+        {
+          "type": "text",
+          "value": ", 07.12.2021"
+        }
+      ],
+      "shareText": "Wer kann sich Zugriff verschaffen auf Rechte und Daten, die wir nicht für Aussenstehende vorgesehen haben?",
+      "prepublication": false,
+      "slug": "die-jagd-nach-fehlern-im-programmcode-ist-eroeffnet",
+      "gallery": false,
+      "hasVideo": false,
+      "repoId": "republik/article-fehler-jagd",
+      "isSeriesMaster": false,
+      "hasAudio": true,
+      "shareFontSize": 56,
+      "format": "[[domain]]/republik/format-an-die-verleger",
+      "facebookDescription": "Wir laden Hackerinnen ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+      "feed": true,
+      "creditsString": "Von Patrick Venetz, 07.12.2021",
+      "autoSlug": true,
+      "shareTextPosition": "bottom",
+      "authors": [
+        "Patrick Venetz"
+      ]
+    },
+    "type": "root"
+  },
+  "resolved": {
+    "meta": {
+      "format": {
+        "meta": {
+          "template": "format",
+          "repoId": "republik/format-an-die-verleger",
+          "kind": "meta",
+          "description": "",
+          "title": "An die Verlagsetage"
+        }
+      }
+    }
+  }
+}
+
+POST /republik/_doc/2
+{
+  "__sort": {
+    "date": "2021-12-07T03:48:00.000Z"
+  },
+  "meta": {
+    "template": "article",
+    "auto": true,
+    "isSeriesEpisode": false,
+    "publishDate": "2021-12-07T03:48:00.000Z",
+    "lastPublishedAt": "2021-12-09T14:03:59.213Z",
+    "description": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+    "audioSource": null,
+    "shortTitle": "Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
+    "title": "Die Jagd nach Fehlern im Programmcode ist eröffnet",
+    "authorUserIds": [
+      "b86f9625-96b8-4886-b6b9-baf4fb657939"
+    ],
+    "path": "/2021/12/07/die-jagd-nach-fehlern-im-programmcode-ist-eroeffnet",
+    "shareInverted": true,
+    "credits": [
+      {
+        "type": "text",
+        "value": "Von "
+      },
+      {
+        "children": [
+          {
+            "type": "text",
+            "value": "Patrick Venetz"
+          }
+        ],
+        "type": "link",
+        "title": null,
+        "url": "/~b86f9625-96b8-4886-b6b9-baf4fb657939"
+      },
+      {
+        "type": "text",
+        "value": ", 07.12.2021"
+      }
+    ],
+    "shareText": "Wer kann sich Zugriff verschaffen auf Rechte und Daten, die wir nicht für Aussenstehende vorgesehen haben?",
+    "prepublication": false,
+    "slug": "die-jagd-nach-fehlern-im-programmcode-ist-eroeffnet",
+    "gallery": false,
+    "hasVideo": false,
+    "repoId": "republik/article-fehler-jagd",
+    "isSeriesMaster": false,
+    "hasAudio": false,
+    "shareFontSize": 56,
+    "format": "[[domain]]/republik/format-an-die-verleger",
+    "facebookDescription": "Wir laden Hackerinnen ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+    "feed": true,
+    "creditsString": "Von Patrick Venetz, 07.12.2021",
+    "autoSlug": true,
+    "shareTextPosition": "bottom",
+    "authors": [
+      "Patrick Venetz"
+    ]
+  },
+  "contentString": """Täglich nutzen viele tausend Menschen die Republik.
+Sie schreiben Dialogbeiträge, verlängern ihre Mitgliedschaft – und lesen Beiträge. So, wie Sie das gerade tun.
+Dabei stossen Nutzer täglich viele tausend Zeilen Programmcode an.
+Sie geben damit unseren Systemen die Anweisungen, welche Texte und Bilder aus den Datenbanken geladen werden sollen oder welches Konto seinen Republik-Zugang teilen will.
+Wir nutzen dafür eigens für unsere Zwecke geschaffene Software, die für alle einsehbar ist. Darin zu finden sind unter anderem der Programmcode der Website, der App und der Schnittstelle, die Inhalte wie Texte oder Bilder an die Website und die App ausliefert.
+Jede Woche ändern sich Hunderte Zeilen dieses Programmcodes, um neue Funktionalitäten zu unterstützen oder Fehler zu entfernen, denen Sie oder wir auf die Schliche gekommen sind.
+Fehlern auf die Schliche zu kommen, ist nicht einfach.
+Im Tech-Team der Republik besitzen wir Instrumente, um Fehler überhaupt erst zu vermeiden. Uns helfen gute Planung, die Nutzung von Industriestandards, technisches Verständnis, Tests und ein Vier-Augen-Prinzip, bevor wir Änderungen auf unseren Systemen ausrollen.
+Aber es gibt unzählige Beispiele, wie schnell sich die gemeine Softwareentwicklerin in falscher Sicherheit wiegen kann. Uns graut davor, eines Tages eine Mitteilung an Nutzer verschicken zu müssen, in der steht, dass Kundendaten abgegriffen wurden.
+Um einer solchen Situation vorzubeugen, brauchen wir etwas anderes: einen geschulten Blick von aussen.
+Deshalb legen wir ab sofort ein sogenanntes Bug-Bounty-Programm auf (also ein «Softwarefehler-Kopfgeld-Programm»). In Zusammenarbeit mit der Bug Bounty Hub AG laden wir wohlgesinnte Hackerinnen aus aller Welt ein, Sicherheitslücken in den Systemen der Republik zu finden.
+Innerhalb eines nach Schweizer Recht abgestützten Rahmens können sie die Systeme der Republik «penetrieren» und gefundene Sicherheitslücken melden – und erhalten dafür eine monetäre Belohnung.
+Dabei haben diese friendly hacker auf nichts anderes Zugriff, als Sie auch hätten. Bloss können sie tiefer graben. Sie versuchen, an Rechte und Daten zu gelangen, die wir nicht für Aussenstehende vorgesehen haben. Das hört sich gruselig an, ist aber eigentlich sehr zuvorkommend. Sie geben den Bösewicht, bevor echte Bösewichte gewollt Ungewolltes tun.
+Um zu verstehen, wie heftig das ganze Vorhaben für uns werden könnte, haben wir bereits eine Art Probelauf gestartet, einen «Penetrationstest».
+Während zweier Tage im November sahen sich von Bug Bounty Hub ausgewählte Hacker in unserem Code und in unserer technischen Infrastruktur um. Sie versuchten, auf der Website Defekte zu finden, und starteten automatisierte Angriffsversuche gegen unsere Infrastruktur. Anschliessend gaben sie uns eine Einschätzung über kritische Bereiche und Möglichkeiten zur Optimierung. 
+Der daraus entstandene, sehr technisch geratene Bericht hat bereits zu Verbesserungen geführt.
+Nun startet das eigentliche Bug-Bounty-Programm, und wir hoffen, tiefer liegende, nicht offensichtliche Schwachstellen und Programmfehler zu finden – fortlaufend und bevor sie ausgenutzt werden.
+Falls Sie zufällig zur Gilde der Hackerinnen gehören, hier finden Sie Einlass.""",
+  "__state": {
+    "prepublished": true,
+    "published": true
+  },
+  "__type": "Document",
+  "id": "cmVwdWJsaWsvYXJ0aWNsZS1mZWhsZXItamFnZC8zMTJkNTRjNS03ZDM4LTQ5OTQtYWUxNi1kZjJhYWUzNDY3YmQvdjY=",
+  "commitId": "312d54c5-7d38-4994-ae16-df2aae3467bd",
+  "versionName": "v6",
+  "content": {
+    "children": [
+      {
+        "identifier": "TITLE",
+        "data": {},
+        "children": [
+          {
+            "depth": 1,
+            "children": [
+              {
+                "type": "text",
+                "value": "Die Jagd nach Fehlern im Programmcode ist eröffnet"
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "depth": 2,
+            "children": [],
+            "type": "heading"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Von "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Patrick Venetz"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "/~b86f9625-96b8-4886-b6b9-baf4fb657939"
+              },
+              {
+                "type": "text",
+                "value": ", 07.12.2021"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "type": "zone"
+      },
+      {
+        "identifier": "CENTER",
+        "data": {},
+        "children": [
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Täglich nutzen viele tausend Menschen die Republik."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Sie schreiben Dialog­beiträge, verlängern ihre Mitgliedschaft – und lesen Beiträge. So, wie Sie das gerade tun."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Dabei stossen Nutzer täglich viele tausend Zeilen Programmcode an."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Sie geben damit unseren Systemen die Anweisungen, welche Texte und Bilder aus den Daten­banken geladen werden sollen oder welches Konto "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "seinen Republik-Zugang teilen"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://www.republik.ch/teilen"
+              },
+              {
+                "type": "text",
+                "value": " will."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Wir nutzen dafür eigens für unsere Zwecke geschaffene Software, "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "die für alle einsehbar ist"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "[[domain]]/orbiting"
+              },
+              {
+                "type": "text",
+                "value": ". Darin zu finden sind unter anderem der Programm­code der "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Website"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "[[domain]]/orbiting/republik-frontend"
+              },
+              {
+                "type": "text",
+                "value": ", der "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "App"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "[[domain]]/orbiting/app/"
+              },
+              {
+                "type": "text",
+                "value": " und der "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Schnittstelle"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "[[domain]]/orbiting/backends"
+              },
+              {
+                "type": "text",
+                "value": ", die Inhalte wie Texte oder Bilder an die Website und die App ausliefert."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Jede Woche ändern sich Hunderte Zeilen dieses Programm­codes, um neue Funktionalitäten zu unterstützen oder Fehler zu entfernen, denen Sie oder wir auf die Schliche gekommen sind."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Fehlern auf die Schliche zu kommen, ist nicht einfach."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Im Tech-Team der Republik besitzen wir Instrumente, um Fehler überhaupt erst zu vermeiden. Uns helfen gute Planung, die Nutzung von Industrie­standards, technisches Verständnis, Tests und ein Vier-Augen-Prinzip, bevor wir Änderungen auf unseren Systemen ausrollen."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Aber es gibt unzählige Beispiele, wie schnell sich die gemeine Software­entwicklerin "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "in falscher Sicherheit wiegen kann"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://www.zeit.de/digital/datenschutz/2017-09/bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiter"
+              },
+              {
+                "type": "text",
+                "value": ". Uns graut davor, eines Tages eine Mitteilung an Nutzer verschicken zu müssen, in der steht, dass "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Kunden­daten abgegriffen wurden"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://www.tagesanzeiger.ch/wirtschaft/standardvips-und-swisscomchefs-von-datenleck-betroffen/story/30785273"
+              },
+              {
+                "type": "text",
+                "value": "."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Um einer solchen Situation vorzubeugen, brauchen wir etwas anderes: einen geschulten Blick von aussen."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Deshalb legen wir ab sofort ein sogenanntes Bug-Bounty-Programm auf (also ein «Software­fehler-Kopfgeld-Programm»). In Zusammen­arbeit mit der "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Bug Bounty Hub AG"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://bugbountyhub.com"
+              },
+              {
+                "type": "text",
+                "value": " laden wir wohlgesinnte Hackerinnen aus aller Welt ein, Sicherheits­lücken in den Systemen der Republik zu finden."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Innerhalb eines nach Schweizer Recht abgestützten Rahmens können sie die Systeme der Republik «penetrieren» und gefundene Sicherheits­lücken melden – und erhalten dafür eine monetäre Belohnung."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Dabei haben diese "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "friendly hacker"
+                  }
+                ],
+                "type": "emphasis"
+              },
+              {
+                "type": "text",
+                "value": " auf nichts anderes Zugriff, als Sie auch hätten. Bloss können sie tiefer graben. Sie versuchen, an Rechte und Daten zu gelangen, die wir nicht für Aussen­stehende vorgesehen haben. Das hört sich gruselig an, ist aber eigentlich sehr zuvorkommend. Sie geben den Bösewicht, bevor echte Bösewichte gewollt Ungewolltes tun."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Um zu verstehen, wie heftig das ganze Vorhaben für uns werden könnte, haben wir bereits eine Art Probe­lauf gestartet, einen «Penetrationstest»."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Während zweier Tage im November sahen sich von Bug Bounty Hub ausgewählte Hacker in unserem Code und in unserer technischen Infrastruktur um. Sie versuchten, auf der Website Defekte zu finden, und starteten automatisierte Angriffs­versuche gegen unsere Infrastruktur. Anschliessend gaben sie uns eine Einschätzung über kritische Bereiche und Möglichkeiten zur Optimierung. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Der daraus entstandene, "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "sehr technisch geratene Bericht"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://cdn.repub.ch/s3/republik-assets/assets/article-fehler-jagd/report-pentest.pdf"
+              },
+              {
+                "type": "text",
+                "value": " hat bereits zu Verbesserungen geführt."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Nun startet das eigentliche Bug-Bounty-Programm, und wir hoffen, tiefer liegende, nicht offen­sichtliche Schwach­stellen und Programm­fehler zu finden – fortlaufend und bevor sie ausgenutzt werden."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "text",
+                "value": "Falls Sie zufällig zur Gilde der Hackerinnen gehören, "
+              },
+              {
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "hier finden Sie Einlass"
+                  }
+                ],
+                "type": "link",
+                "title": null,
+                "url": "https://bugbountyhub.com/de-ch/programs/republik"
+              },
+              {
+                "type": "text",
+                "value": "."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "identifier": "ARTICLECOLLECTION",
+            "data": {
+              "membersOnly": true,
+              "unauthorizedText": ""
+            },
+            "children": [
+              {
+                "depth": 2,
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Lesen Sie auch:"
+                  }
+                ],
+                "type": "heading"
+              },
+              {
+                "identifier": "TEASERGROUP",
+                "data": {},
+                "children": [
+                  {
+                    "identifier": "TEASER",
+                    "data": {
+                      "textPosition": "topleft",
+                      "kind": "meta",
+                      "teaserType": "articleTile",
+                      "center": false,
+                      "showImage": true,
+                      "titleSize": "standard",
+                      "id": "VrMZcOhch",
+                      "reverse": false,
+                      "portrait": true,
+                      "byline": null,
+                      "url": "[[domain]]/republik/page-ihre-stimme-fuer-project-r?autoSlug",
+                      "onlyImage": false
+                    },
+                    "children": [
+                      {
+                        "depth": 6,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "An die Verlagsetage"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 1,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Sie haben entschieden"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 2,
+                        "children": [],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 4,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Jünger, weiblicher, in der Unternehmens­führung breiter aufgestellt und alle Vorlagen angenommen: Sie haben entschieden – die Resultate der Urabstimmung 2021."
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Update: 01.12.2021"
+                          }
+                        ],
+                        "type": "paragraph"
+                      }
+                    ],
+                    "type": "zone"
+                  },
+                  {
+                    "identifier": "TEASER",
+                    "data": {
+                      "formatUrl": "[[domain]]/republik/format-aus-der-redaktion?autoSlug",
+                      "textPosition": "topleft",
+                      "kind": "meta",
+                      "teaserType": "articleTile",
+                      "center": false,
+                      "showImage": true,
+                      "titleSize": "standard",
+                      "reverse": false,
+                      "portrait": true,
+                      "url": "[[domain]]/republik/article-warum-sie-sehen-was-sie-sehen?autoSlug",
+                      "formatColor": "#000000",
+                      "onlyImage": false,
+                      "id": "kD_pU1efAn",
+                      "byline": null
+                    },
+                    "children": [
+                      {
+                        "depth": 6,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Aus der Redaktion"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 1,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Warum Sie sehen, was Sie sehen"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 2,
+                        "children": [],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 4,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Wie gelangen die Bilder in die Republik? Oder: Wie arbeitet eigentlich eine Bildredaktorin?"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Von "
+                          },
+                          {
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Ihrer Bildredaktion"
+                              }
+                            ],
+                            "type": "link",
+                            "title": null,
+                            "url": "https://www.republik.ch/impressum"
+                          },
+                          {
+                            "type": "text",
+                            "value": ", 14.05.2021"
+                          }
+                        ],
+                        "type": "paragraph"
+                      }
+                    ],
+                    "type": "zone"
+                  },
+                  {
+                    "identifier": "TEASER",
+                    "data": {
+                      "formatUrl": "[[domain]]/republik/format-an-die-verleger?autoSlug",
+                      "textPosition": "topleft",
+                      "kind": "meta",
+                      "teaserType": "articleTile",
+                      "center": false,
+                      "showImage": true,
+                      "titleSize": "standard",
+                      "reverse": false,
+                      "portrait": true,
+                      "url": "[[domain]]/republik/article-republik-app-zwei-punkt-null?autoSlug",
+                      "formatColor": "#000",
+                      "onlyImage": false,
+                      "id": "ApmlvOimWJ",
+                      "byline": null
+                    },
+                    "children": [
+                      {
+                        "depth": 6,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "An die Verlagsetage"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 1,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Unsichtbares Update"
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 2,
+                        "children": [],
+                        "type": "heading"
+                      },
+                      {
+                        "depth": 4,
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "In den letzten Tagen haben wir klammheimlich ein längst überfälliges Update der Republik-App ausgespielt. Was sich dadurch verbessert – und warum es so lange gedauert hat."
+                          }
+                        ],
+                        "type": "heading"
+                      },
+                      {
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Von "
+                          },
+                          {
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Patrick Venetz"
+                              }
+                            ],
+                            "type": "link",
+                            "title": "Patrick Venetz",
+                            "url": "/~b86f9625-96b8-4886-b6b9-baf4fb657939"
+                          },
+                          {
+                            "type": "text",
+                            "value": ", 22.02.2021"
+                          }
+                        ],
+                        "type": "paragraph"
+                      }
+                    ],
+                    "type": "zone"
+                  }
+                ],
+                "type": "zone"
+              }
+            ],
+            "type": "zone"
+          }
+        ],
+        "type": "zone"
+      }
+    ],
+    "meta": {
+      "template": "article",
+      "auto": true,
+      "isSeriesEpisode": false,
+      "publishDate": "2021-12-07T03:48:00.000Z",
+      "lastPublishedAt": "2021-12-09T14:03:59.213Z",
+      "description": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+      "audioSource": null,
+      "shortTitle": "Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
+      "title": "Die Jagd nach Fehlern im Programmcode ist eröffnet",
+      "authorUserIds": [
+        "b86f9625-96b8-4886-b6b9-baf4fb657939"
+      ],
+      "path": "/2021/12/07/die-jagd-nach-fehlern-im-programmcode-ist-eroeffnet",
+      "shareInverted": true,
+      "credits": [
+        {
+          "type": "text",
+          "value": "Von "
+        },
+        {
+          "children": [
+            {
+              "type": "text",
+              "value": "Patrick Venetz"
+            }
+          ],
+          "type": "link",
+          "title": null,
+          "url": "/~b86f9625-96b8-4886-b6b9-baf4fb657939"
+        },
+        {
+          "type": "text",
+          "value": ", 07.12.2021"
+        }
+      ],
+      "shareText": "Wer kann sich Zugriff verschaffen auf Rechte und Daten, die wir nicht für Aussenstehende vorgesehen haben?",
+      "prepublication": false,
+      "slug": "die-jagd-nach-fehlern-im-programmcode-ist-eroeffnet",
+      "gallery": false,
+      "hasVideo": false,
+      "repoId": "republik/article-fehler-jagd",
+      "isSeriesMaster": false,
+      "hasAudio": true,
+      "shareFontSize": 56,
+      "format": "[[domain]]/republik/format-an-die-verleger",
+      "facebookDescription": "Wir laden Hackerinnen ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+      "feed": true,
+      "creditsString": "Von Patrick Venetz, 07.12.2021",
+      "autoSlug": true,
+      "shareTextPosition": "bottom",
+      "authors": [
+        "Patrick Venetz"
+      ]
+    },
+    "type": "root"
+  },
+  "resolved": {
+    "meta": {
+      "format": {
+        "meta": {
+          "template": "format",
+          "repoId": "republik/format-an-die-verleger",
+          "kind": "meta",
+          "description": "",
+          "title": "An die Verlagsetage"
+        }
+      }
+    }
+  }
+}
+
+  
+DELETE /republik
+
+*************************** SEARCH QUERIES ***************************
+
+POST /republik/_search
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "bool": {
+            "must": [
+              {
+                "simple_query_string": {
+                  "query": """Programmcode""",
+                  "fields": [
+                    "meta.title",
+                    "meta.shortTitle",
+                    "resolved.meta.dossier.meta.title",
+                    "resolved.meta.format.meta.title",
+                    "resolved.meta.section.meta.title",
+                    "meta.seriesEpisodes.title",
+                    "meta.description",
+                    "meta.creditsString^2",
+                    "contentString"
+                  ],
+                  "default_operator": "AND"
+                }
+              },
+              {
+                "function_score": {
+                  "query": {
+                    "simple_query_string": {
+                      "query": """Programmcode""",
+                      "fields": [
+                        "meta.title",
+                        "meta.shortTitle",
+                        "resolved.meta.dossier.meta.title",
+                        "resolved.meta.format.meta.title",
+                        "resolved.meta.section.meta.title",
+                        "meta.seriesEpisodes.title",
+                        "meta.description",
+                        "meta.creditsString^2",
+                        "contentString"
+                      ],
+                      "default_operator": "AND"
+                    }
+                  },
+                  "functions": [
+                    {
+                      "filter": {
+                        "terms": {
+                          "meta.template": [
+                            "article",
+                            "format",
+                            "dossier"
+                          ]
+                        }
+                      },
+                      "weight": 2
+                    },
+                    {
+                      "linear": {
+                        "__sort.date": {
+                          "offset": "90d",
+                          "scale": "275d"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "filter": {
+              "bool": {
+                "must": [
+                  {
+                    "term": {
+                      "__type": "Document"
+                    }
+                  },
+                  {
+                    "term": {
+                      "__type": "Document"
+                    }
+                  },
+                  {
+                    "term": {
+                      "__state.published": true
+                    }
+                  }
+                ],
+                "must_not": [
+                  {
+                    "term": {
+                      "meta.template": "front"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "size": 0, 
+  "sort": {},
+  "highlight": {
+    "fields": {
+      "meta.title": {
+        "number_of_fragments": 0,
+        "order": "score"
+      },
+      "meta.shortTitle": {
+        "number_of_fragments": 0,
+        "order": "score"
+      },
+      "meta.description": {
+        "number_of_fragments": 0,
+        "order": "score"
+      },
+      "contentString": {
+        "boundary_scanner_locale": "de-CH",
+        "fragment_size": 300,
+        "order": "score"
+      }
+    }
+  },
+  "stored_fields": [
+    "contentString.count"
+  ],
+  "aggs": {
+    "terms/type": {
+      "filter": {
+        "match_all": {}
+      },
+      "aggs": {
+        "terms": {
+          "terms": {
+            "field": "__type",
+            "min_doc_count": 0
+          }
+        }
+      }
+    },
+    "terms/template": {
+      "filter": {
+        "match_all": {}
+      },
+      "aggs": {
+        "terms": {
+          "terms": {
+            "field": "meta.template",
+            "min_doc_count": 0
+          }
+        }
+      }
+    },
+    "valueCount/dossier": {
+      "filter": {
+        "match_all": {}
+      },
+      "aggs": {
+        "count": {
+          "value_count": {
+            "field": "meta.dossier"
+          }
+        }
+      }
+    },
+    "existsCount/hasDossier": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "exists": {
+                "field": "meta.dossier"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "valueCount/format": {
+      "filter": {
+        "match_all": {}
+      },
+      "aggs": {
+        "count": {
+          "value_count": {
+            "field": "meta.format"
+          }
+        }
+      }
+    },
+    "existsCount/hasFormat": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "exists": {
+                "field": "meta.format"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "valueCount/section": {
+      "filter": {
+        "match_all": {}
+      },
+      "aggs": {
+        "count": {
+          "value_count": {
+            "field": "meta.section"
+          }
+        }
+      }
+    },
+    "existsCount/hasSection": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "exists": {
+                "field": "meta.section"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "terms/kind": {
+      "filter": {
+        "match_all": {}
+      },
+      "aggs": {
+        "terms": {
+          "terms": {
+            "field": "resolved.meta.format.meta.kind",
+            "min_doc_count": 0
+          }
+        }
+      }
+    },
+    "trueCount/feed": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "term": {
+                "meta.feed": true
+              }
+            }
+          ]
+        }
+      }
+    },
+    "existsCount/audioSource": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "exists": {
+                "field": "meta.audioSource"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "trueCount/hasAudio": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "term": {
+                "meta.hasAudio": true
+              }
+            }
+          ]
+        }
+      }
+    },
+    "trueCount/hasVideo": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "term": {
+                "meta.hasVideo": true
+              }
+            }
+          ]
+        }
+      }
+    },
+    "trueCount/isSeriesMaster": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "term": {
+                "meta.isSeriesMaster": true
+              }
+            }
+          ]
+        }
+      }
+    },
+    "trueCount/isSeriesEpisode": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "match_all": {}
+            },
+            {
+              "term": {
+                "meta.isSeriesEpisode": true
+              }
+            }
+          ]
+        }
+      }
+    },
+    "range/textLength": {
+      "filter": {
+        "bool": {
+          "must": {
+            "exists": {
+              "field": "contentString.count"
+            }
+          },
+          "must_not": {
+            "terms": {
+              "meta.template": [
+                "format",
+                "discussion"
+              ]
+            }
+          }
+        }
+      },
+      "aggs": {
+        "ranges": {
+          "range": {
+            "field": "contentString.count",
+            "ranges": [
+              {
+                "key": "short",
+                "to": 900
+              },
+              {
+                "key": "medium",
+                "from": 900,
+                "to": 2700
+              },
+              {
+                "key": "long",
+                "from": 2700,
+                "to": 5400
+              },
+              {
+                "key": "epic",
+                "from": 5400
+              }
+            ]
+          }
+        }
+      }
+    },
+    "terms/documentZoneIdentifier": {
+      "filter": {
+        "match_all": {}
+      },
+      "aggs": {
+        "terms": {
+          "terms": {
+            "field": "identifier",
+            "min_doc_count": 0
+          }
+        }
+      }
+    },
+    "terms/documentZoneDataType": {
+      "filter": {
+        "match_all": {}
+      },
+      "aggs": {
+        "terms": {
+          "terms": {
+            "field": "data.type",
+            "min_doc_count": 0
+          }
+        }
+      }
+    }
+  },
+  "_source": {
+    "excludes": [
+      "contentString",
+      "resolved"
+    ]
+  }
+}
+
+*************************** SEARCH QUERIES SIMPLE ***************************
+
+
+POST /republik/_search
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "bool": {
+            "must": [
+              {
+                "simple_query_string": {
+                  "query": """Programmcode""",
+                  "fields": [
+                    "meta.title",
+                    "meta.shortTitle",
+                    "resolved.meta.dossier.meta.title",
+                    "resolved.meta.format.meta.title",
+                    "resolved.meta.section.meta.title",
+                    "meta.seriesEpisodes.title",
+                    "meta.description",
+                    "meta.creditsString^2",
+                    "contentString"
+                  ],
+                  "default_operator": "AND"
+                }
+              },
+              {
+                "function_score": {
+                  "query": {
+                    "simple_query_string": {
+                      "query": """Programmcode""",
+                      "fields": [
+                        "meta.title",
+                        "meta.shortTitle",
+                        "resolved.meta.dossier.meta.title",
+                        "resolved.meta.format.meta.title",
+                        "resolved.meta.section.meta.title",
+                        "meta.seriesEpisodes.title",
+                        "meta.description",
+                        "meta.creditsString^2",
+                        "contentString"
+                      ],
+                      "default_operator": "AND"
+                    }
+                  },
+                  "functions": [
+                    {
+                      "filter": {
+                        "terms": {
+                          "meta.template": [
+                            "article",
+                            "format",
+                            "dossier"
+                          ]
+                        }
+                      },
+                      "weight": 2
+                    },
+                    {
+                      "linear": {
+                        "__sort.date": {
+                          "offset": "90d",
+                          "scale": "275d"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "filter": {
+              "bool": {
+                "must": [
+                  {
+                    "term": {
+                      "__type": "Document"
+                    }
+                  },
+                  {
+                    "term": {
+                      "__type": "Document"
+                    }
+                  },
+                  {
+                    "term": {
+                      "__state.published": true
+                    }
+                  }
+                ],
+                "must_not": [
+                  {
+                    "term": {
+                      "meta.template": "front"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "size": 0,
+  "aggs": {
+    "ourterms": {
+      "terms": {
+        "field": "meta.shortTitle",
+        "size": 10
+      }
+    }
+  }
+}
+
+
+******************************* SETUP INDEX *******************************
+
+
 DELETE /republik
 
 POST /republik/_search
