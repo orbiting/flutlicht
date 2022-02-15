@@ -35,7 +35,8 @@ https://orbit7.slack.com/archives/C02TXQANZ2B/p1644480925426649
 * «Klima» won’t return result with related terms «Klimakrise», «Klimaerwärmung», «Klimaschutz», «Klima[something]». 
 I would expect these to show up and rank high when in title or lead.
 
- -> word decomposition
+ -> word decomposition: OK > showing 
+ -> to do : ranking
 
 * «Daniel Binswanger» (an author) will score not most recent publications high,
  unbeknownst to me why (first result is from December 2021, albeit he did publish stuff way more recently). 

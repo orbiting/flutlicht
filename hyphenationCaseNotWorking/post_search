@@ -1,0 +1,141 @@
+*************************** SEARCH QUERIES SIMPLE ***************************
+POST /republik/_search
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "bool": {
+            "must": [
+              {
+                "simple_query_string": {
+                  "query": """Donau""",
+                  "fields": [
+                    "meta.title",
+                    "meta.shortTitle",
+                    "resolved.meta.dossier.meta.title",
+                    "resolved.meta.format.meta.title",
+                    "resolved.meta.section.meta.title",
+                    "meta.seriesEpisodes.title",
+                    "meta.description",
+                    "meta.creditsString^2",
+                    "contentString"
+                  ],
+                  "default_operator": "AND"
+                }
+              },
+              {
+                "function_score": {
+                  "query": {
+                    "simple_query_string": {
+                      "query": """Donau""",
+                      "fields": [
+                        "meta.title",
+                        "meta.shortTitle",
+                        "resolved.meta.dossier.meta.title",
+                        "resolved.meta.format.meta.title",
+                        "resolved.meta.section.meta.title",
+                        "meta.seriesEpisodes.title",
+                        "meta.description",
+                        "meta.creditsString^2",
+                        "contentString"
+                      ],
+                      "default_operator": "AND"
+                    }
+                  },
+                  "functions": [
+                    {
+                      "filter": {
+                        "terms": {
+                          "meta.template": [
+                            "article",
+                            "format",
+                            "dossier"
+                          ]
+                        }
+                      },
+                      "weight": 2
+                    },
+                    {
+                      "linear": {
+                        "__sort.date": {
+                          "offset": "90d",
+                          "scale": "275d"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "filter": {
+              "bool": {
+                "must": [
+                  {
+                    "term": {
+                      "__type": "Document"
+                    }
+                  },
+                  {
+                    "term": {
+                      "__type": "Document"
+                    }
+                  },
+                  {
+                    "term": {
+                      "__state.published": true
+                    }
+                  }
+                ],
+                "must_not": [
+                  {
+                    "term": {
+                      "meta.template": "front"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "aggs": {
+    "ourname": {
+      "terms": {
+        "field": "meta.shortTitle"
+      }
+    },
+    "description": {
+      "terms": {
+        "field": "meta.description"
+      }
+    },
+    "nostemmer": {
+      "terms": {
+        "field": "meta.shortTitle.nostemmer"
+      }
+    },
+    "nostemmer_contentString": {
+      "terms": {
+        "field": "contentString.nostemmer"
+      }
+    },
+    "ngrams_contentString": {
+      "terms": {
+        "field": "contentString.ngrams",
+        "size": 100
+      }
+    },
+    "ngrams": {
+      "terms": {
+        "field": "meta.shortTitle.ngrams",
+        "size": 100
+      }
+    }
+  },
+  "size": 0
+  
+}
+
