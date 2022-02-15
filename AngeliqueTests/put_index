@@ -1,0 +1,284 @@
+PUT /republik
+{
+  "settings": {
+    "index": {
+      "number_of_shards": "5",
+      "analysis": {
+        "filter": {
+          "german_stemmer": {
+            "type": "stemmer",
+            "language": "light_german"
+          }
+        },
+        "analyzer": {
+          "my_analyzer": {
+            "tokenizer": "my_tokenizer"
+          },
+          "german_with_stopwords": {
+            "filter": [
+              "lowercase",
+              "german_normalization",
+              "german_stemmer"
+            ],
+            "tokenizer": "standard"
+          },
+          "german_no_stemmer": {
+            "filter": [
+              "lowercase",
+              "german_normalization"
+            ],
+            "tokenizer": "standard"
+          }
+        },
+        "tokenizer": {
+          "my_tokenizer": {
+            "type": "ngram",
+            "min_gram": 3,
+            "max_gram": 4,
+            "token_chars": [
+              "letter",
+              "digit"
+            ]
+          }
+        }
+      },
+      "number_of_replicas": "1"
+    }
+  },
+  "mappings": {
+    "properties": {
+      "__sort": {
+        "properties": {
+          "date": {
+            "type": "date"
+          }
+        }
+      },
+      "__state": {
+        "properties": {
+          "prepublished": {
+            "type": "boolean"
+          },
+          "published": {
+            "type": "boolean"
+          }
+        }
+      },
+      "__type": {
+        "type": "keyword"
+      },
+      "commitId": {
+        "type": "keyword"
+      },
+      "contentString": {
+        "type": "text",
+        "fields": {
+          "count": {
+            "type": "token_count",
+            "store": true,
+            "analyzer": "standard"
+          },
+          "raw": {
+            "type": "keyword"
+          },
+          "nostemmer": {
+            "type": "text",
+            "analyzer": "german_no_stemmer",
+            "fielddata": true
+          },
+          "ngrams": {
+            "type": "text",
+            "analyzer": "my_analyzer",
+            "fielddata": true
+          }
+        },
+        "analyzer": "german",
+        "fielddata": true
+      },
+      "meta": {
+        "properties": {
+          "audioSource": {
+            "properties": {
+              "aac": {
+                "type": "keyword"
+              },
+              "mp3": {
+                "type": "keyword"
+              },
+              "ogg": {
+                "type": "keyword"
+              }
+            }
+          },
+          "credits": {
+            "properties": {
+              "children": {
+                "type": "object"
+              },
+              "type": {
+                "type": "keyword"
+              },
+              "url": {
+                "type": "keyword"
+              },
+              "value": {
+                "type": "keyword"
+              }
+            }
+          },
+          "creditsString": {
+            "type": "text",
+            "analyzer": "german_with_stopwords"
+          },
+          "description": {
+            "type": "text",
+            "analyzer": "german_with_stopwords",
+            "fielddata": true,
+            "fields": {
+              "raw": {
+                "type": "keyword"
+              }
+            }
+          },
+          "discussionId": {
+            "type": "keyword"
+          },
+          "dossier": {
+            "type": "keyword"
+          },
+          "feed": {
+            "type": "boolean"
+          },
+          "format": {
+            "type": "keyword"
+          },
+          "hasAudio": {
+            "type": "boolean"
+          },
+          "hasVideo": {
+            "type": "boolean"
+          },
+          "isSeriesEpisode": {
+            "type": "boolean"
+          },
+          "isSeriesMaster": {
+            "type": "boolean"
+          },
+          "kind": {
+            "type": "keyword"
+          },
+          "path": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "prepublication": {
+            "type": "boolean"
+          },
+          "publishDate": {
+            "type": "date"
+          },
+          "repoId": {
+            "type": "keyword"
+          },
+          "scheduledAt": {
+            "type": "date"
+          },
+          "section": {
+            "type": "keyword"
+          },
+          "seriesEpisodes": {
+            "properties": {
+              "title": {
+                "type": "text",
+                "analyzer": "german_with_stopwords"
+              }
+            }
+          },
+          "shortTitle": {
+            "type": "text",
+            "analyzer": "german_with_stopwords",
+            "fielddata": true,
+            "fields": {
+              "raw": {
+                "type": "keyword"
+              },
+              "nostemmer": {
+                "type": "text",
+                "analyzer": "german_no_stemmer",
+                "fielddata": true
+              },
+              "ngrams": {
+                "type": "text",
+                "analyzer": "my_analyzer",
+                "fielddata": true
+              }
+            }
+          },
+          "template": {
+            "type": "keyword"
+          },
+          "title": {
+            "type": "text",
+            "analyzer": "german_with_stopwords"
+          }
+        }
+      },
+      "resolved": {
+        "properties": {
+          "meta": {
+            "properties": {
+              "dossier": {
+                "properties": {
+                  "meta": {
+                    "properties": {
+                      "title": {
+                        "type": "text",
+                        "analyzer": "german_with_stopwords"
+                      }
+                    }
+                  }
+                }
+              },
+              "format": {
+                "properties": {
+                  "meta": {
+                    "properties": {
+                      "kind": {
+                        "type": "keyword"
+                      },
+                      "title": {
+                        "type": "text",
+                        "analyzer": "german_with_stopwords"
+                      }
+                    }
+                  }
+                }
+              },
+              "section": {
+                "properties": {
+                  "meta": {
+                    "properties": {
+                      "title": {
+                        "type": "text",
+                        "analyzer": "german_with_stopwords"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "versionName": {
+        "type": "keyword"
+      }
+    }
+  }
+}
+
