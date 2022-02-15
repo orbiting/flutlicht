@@ -42,15 +42,17 @@ I would expect these to show up and rank high when in title or lead.
  unbeknownst to me why (first result is from December 2021, albeit he did publish stuff way more recently). 
  I would expect more recent publications to rank higher. 
 
+-> TO DO ranking to look at
+
 * Slight misspelling «bürhle» won’t return any documents, 
 while «bührle» does. I would expect to be lenient (or really, happy with a Did you mean …? approach).
 
--> autocompletion/auto-correction
+-> fuzziness OK
 
 * Here is another fun one, misspelling-wise: «dorsten» won’t yield any documents, 
 while «drosten» does (referring to Christian Drosten here). I would expect it to be more lenient here, too.
 
--> autocompletion/auto-correction
+-> fuzziness OK
 
 * «Wir für Euch» returns nothing. This term does not appear in lead or title, but in body (content) and 
 I expect it to at least show up. Here are some articles 
@@ -58,8 +60,8 @@ that should be returned: https://www.republik.ch/2021/10/08/von-polizisten-die-g
 https://www.republik.ch/2021/10/18/echo-oktober-2021, https://www.republik.ch/2022/02/04/denn-sie-wissen-nicht-was-sie-unterzeichnen.
 
  
--> stop words OK  just replaced the analyzer with german_with_stopwords
+-> stop words OK  
 
 * «squidgame» returns no results. Would expect to return results similar to «squid game» (or a suggestion).
 
--> word decomposition (Ngram?)
+-> word decomposition OK

@@ -1,0 +1,54 @@
+*************************** SEARCH QUERIES SIMPLE ***************************
+POST /republik/_search
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "match": {
+            "meta.shortTitle": {
+              "query": "klima",
+               "_name": "noFuzzi_shortTitle"
+            }
+          }
+        },
+        {
+          "match": {
+            "meta.shortTitle": {
+              "query": "klima",
+              "fuzziness": "AUTO",
+               "_name": "fuzzi_shortTitle"
+            }
+          }
+        },
+        {
+          "match": {
+            "meta.description": {
+              "query": "klima",
+               "_name": "noFuzzi_description"
+            }
+          }
+        },
+        {
+          "match": {
+            "meta.description": {
+              "query": "klima",
+              "fuzziness": "AUTO",
+               "_name": "fuzzi_description"
+            }
+          }
+        }
+        ]
+    }
+  },
+  "size": 1
+}
+
+
+
+
+
+
+
+
+
