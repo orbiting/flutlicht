@@ -9,7 +9,7 @@ POST /republik/_search
             "must": [
               {
                 "simple_query_string": {
-                  "query": """euch""",
+                  "query": """Donau""",
                   "fields": [
                     "meta.title",
                     "meta.shortTitle",
@@ -28,7 +28,7 @@ POST /republik/_search
                 "function_score": {
                   "query": {
                     "simple_query_string": {
-                      "query": """euch""",
+                      "query": """Donau""",
                       "fields": [
                         "meta.title",
                         "meta.shortTitle",

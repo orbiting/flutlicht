@@ -10,9 +10,9 @@ POST /republik/_doc/2
     "isSeriesEpisode": false,
     "publishDate": "2021-12-07T03:48:00.000Z",
     "lastPublishedAt": "2021-12-09T14:03:59.213Z",
-    "description": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+    "description": "Wir  laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
     "audioSource": null,
-    "shortTitle": "Die Arbeitsmarktlage Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
+    "shortTitle": "Die   Arbeitsmarktlage Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
     "title": "Die Jagd nach Fehlern im Programmcode ist eröffnet",
     "authorUserIds": [
       "b86f9625-96b8-4886-b6b9-baf4fb657939"
@@ -59,7 +59,7 @@ POST /republik/_doc/2
       "Patrick Venetz"
     ]
   },
-  "contentString": """Täglich nutzen viele tausend Menschen die Republik.
+  "contentString": """Täglich Klimaerwärmung nutzen viele tausend Menschen die Republik.
 Sie schreiben Dialogbeiträge, verlängern ihre Mitgliedschaft – und lesen Beiträge. So, wie Sie das gerade tun.
 Dabei stossen Nutzer täglich viele tausend Zeilen Programmcode an.
 Sie geben damit unseren Systemen die Anweisungen, welche Texte und Bilder aus den Datenbanken geladen werden sollen oder welches Konto seinen Republik-Zugang teilen will.

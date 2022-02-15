@@ -1,3 +1,5 @@
+**********PUT INDEX***************
+DELETE /republik
 PUT /republik
 {
   "settings": {
@@ -8,6 +10,10 @@ PUT /republik
           "german_stemmer": {
             "type": "stemmer",
             "language": "light_german"
+          },
+          "22_char_dictionary_decompound": {
+            "type": "dictionary_decompounder",
+            "word_list": ["donau", "dampf", "meer", "schiff", "klima", "krise", "wärmung"]
           }
         },
         "analyzer": {
@@ -28,6 +34,13 @@ PUT /republik
               "german_normalization"
             ],
             "tokenizer": "standard"
+          },
+          "standard_dictionary_decompound": {
+            "tokenizer": "standard",
+            "filter": [ 
+              "lowercase",
+              "22_char_dictionary_decompound"
+            ]
           }
         },
         "tokenizer": {
@@ -72,7 +85,7 @@ PUT /republik
       },
       "contentString": {
         "type": "text",
-        "analyzer": "german_with_stopwords",
+        "analyzer": "standard_dictionary_decompound",
         "fielddata": true,
         "fields": {
           "count": {
@@ -132,7 +145,7 @@ PUT /republik
           },
           "description": {
             "type": "text",
-            "analyzer": "german_with_stopwords",
+            "analyzer": "standard_dictionary_decompound",
             "fielddata": true,
             "fields": {
               "raw": {
@@ -201,7 +214,7 @@ PUT /republik
           },
           "shortTitle": {
             "type": "text",
-            "analyzer": "german_with_stopwords",
+            "analyzer": "standard_dictionary_decompound",
             "fielddata": true,
             "fields": {
               "raw": {

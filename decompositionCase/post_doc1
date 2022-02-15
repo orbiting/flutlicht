@@ -11,7 +11,7 @@ POST /republik/_doc/1
     "lastPublishedAt": "2021-12-09T14:03:59.213Z",
     "description": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
     "audioSource": {"source": "somevaluehere"},
-    "shortTitle": "Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
+    "shortTitle": "  Donaudampfschiff Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
     "title": "Die Jagd nach Fehlern im Programmcode ist eröffnet",
     "authorUserIds": [
       "b86f9625-96b8-4886-b6b9-baf4fb657939"
