@@ -25,6 +25,10 @@ where to install install the decomposer-pluggin?
 5) number_of_shards: 5 /number_of_replicas: 1 ??
 
 
+
+
+
+
 -> Patrick's' examples
 https://orbit7.slack.com/archives/C02TXQANZ2B/p1644480925426649
 
@@ -52,8 +56,8 @@ I expect it to at least show up. Here are some articles
 that should be returned: https://www.republik.ch/2021/10/08/von-polizisten-die-glauben-ueber-dem-gesetz-zu-stehen, 
 https://www.republik.ch/2021/10/18/echo-oktober-2021, https://www.republik.ch/2022/02/04/denn-sie-wissen-nicht-was-sie-unterzeichnen.
 
-
--> stop words
+ 
+-> stop words OK  just replaced the analyzer with german_with_stopwords
 
 * «squidgame» returns no results. Would expect to return results similar to «squid game» (or a suggestion).
 

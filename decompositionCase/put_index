@@ -72,6 +72,8 @@ PUT /republik
       },
       "contentString": {
         "type": "text",
+        "analyzer": "german_with_stopwords",
+        "fielddata": true,
         "fields": {
           "count": {
             "type": "token_count",
@@ -91,9 +93,7 @@ PUT /republik
             "analyzer": "my_analyzer",
             "fielddata": true
           }
-        },
-        "analyzer": "german",
-        "fielddata": true
+        }
       },
       "meta": {
         "properties": {

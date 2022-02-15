@@ -1,5 +1,5 @@
 
-POST /republik/_doc/1
+POST /republik/_doc/2
 {
   "__sort": {
     "date": "2021-12-07T03:48:00.000Z"
@@ -10,9 +10,9 @@ POST /republik/_doc/1
     "isSeriesEpisode": false,
     "publishDate": "2021-12-07T03:48:00.000Z",
     "lastPublishedAt": "2021-12-09T14:03:59.213Z",
-    "description": " wir für euch Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
-    "audioSource": {"source": "somevaluehere"},
-    "shortTitle": "Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
+    "description": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+    "audioSource": null,
+    "shortTitle": "Die Arbeitsmarktlage Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
     "title": "Die Jagd nach Fehlern im Programmcode ist eröffnet",
     "authorUserIds": [
       "b86f9625-96b8-4886-b6b9-baf4fb657939"
@@ -59,14 +59,12 @@ POST /republik/_doc/1
       "Patrick Venetz"
     ]
   },
-  "contentString": """
-  Seit einigen Monaten macht in den Echokammern der Gegner von Corona-Massnahmen eine Gruppierung von sich reden, die laut eigenen Angaben aus «kritischen» Angehörigen der Polizei und anderer Sicherheits­behörden besteht. Die anonyme Vereinigung, die sich «Wir für Euch» nennt und eine gleichnamige Website betreibt, hält die Zertifikats­pflicht für widerrechtlich und ruft zum Widerstand gegen diese und alle anderen Massnahmen zur Eindämmung der Pandemie auf.
-  Täglich nutzen viele tausend Menschen die Republik.
+  "contentString": """Täglich nutzen viele tausend Menschen die Republik.
 Sie schreiben Dialogbeiträge, verlängern ihre Mitgliedschaft – und lesen Beiträge. So, wie Sie das gerade tun.
 Dabei stossen Nutzer täglich viele tausend Zeilen Programmcode an.
 Sie geben damit unseren Systemen die Anweisungen, welche Texte und Bilder aus den Datenbanken geladen werden sollen oder welches Konto seinen Republik-Zugang teilen will.
 Wir nutzen dafür eigens für unsere Zwecke geschaffene Software, die für alle einsehbar ist. Darin zu finden sind unter anderem der Programmcode der Website, der App und der Schnittstelle, die Inhalte wie Texte oder Bilder an die Website und die App ausliefert.
-Jede Woche ändern sich Hunderte Zeilen dieses Programmcodes, um neue Funktionalitäten zu unterstützen oder Fehler zu entfernen, denen Sie oder wir auf die Schliche gekommen sind.
+Jede Woche ändern sich Hunderte Zeilen dieses Programmcodes, um neue Funktionalitäten  zu unterstützen oder Fehler zu entfernen, denen Sie oder wir auf die Schliche gekommen sind.
 Fehlern auf die Schliche zu kommen, ist nicht einfach.
 Im Tech-Team der Republik besitzen wir Instrumente, um Fehler überhaupt erst zu vermeiden. Uns helfen gute Planung, die Nutzung von Industriestandards, technisches Verständnis, Tests und ein Vier-Augen-Prinzip, bevor wir Änderungen auf unseren Systemen ausrollen.
 Aber es gibt unzählige Beispiele, wie schnell sich die gemeine Softwareentwicklerin in falscher Sicherheit wiegen kann. Uns graut davor, eines Tages eine Mitteilung an Nutzer verschicken zu müssen, in der steht, dass Kundendaten abgegriffen wurden.
@@ -272,7 +270,7 @@ Falls Sie zufällig zur Gilde der Hackerinnen gehören, hier finden Sie Einlass.
             "children": [
               {
                 "type": "text",
-                "value": "Jede Woche ändern sich Hunderte Zeilen dieses Programm­codes, um neue Funktionalitäten zu unterstützen oder Fehler zu entfernen, denen Sie oder wir auf die Schliche gekommen sind."
+                "value": "Jede Woche ändern sich Hunderte Zeilen dieses Programm­codes, um neue Funktionalitäten  zu unterstützen oder Fehler zu entfernen, denen Sie oder wir auf die Schliche gekommen sind."
               }
             ],
             "type": "paragraph"
@@ -736,9 +734,9 @@ Falls Sie zufällig zur Gilde der Hackerinnen gehören, hier finden Sie Einlass.
       "isSeriesEpisode": false,
       "publishDate": "2021-12-07T03:48:00.000Z",
       "lastPublishedAt": "2021-12-09T14:03:59.213Z",
-      "description": " Wir für Euch Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
+      "description": "Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist. ",
       "audioSource": null,
-      "shortTitle": " Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
+      "shortTitle": "Die Jagd nach Fehlern im Republik-Programmcode ist eröffnet. Wir laden Hackerinnen dazu ein, in unsere Systeme einzudringen. Warum das eine gute Idee ist",
       "title": "Die Jagd nach Fehlern im Programmcode ist eröffnet",
       "authorUserIds": [
         "b86f9625-96b8-4886-b6b9-baf4fb657939"
@@ -801,3 +799,5 @@ Falls Sie zufällig zur Gilde der Hackerinnen gehören, hier finden Sie Einlass.
     }
   }
 }
+
+  
